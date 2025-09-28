@@ -13,6 +13,8 @@ Curated for developers, teams, researchers, and tech enthusiasts aiming to boost
 
 Ready to revolutionize your workflow? Dive in to explore, learn, and build smarter with AI!
 
+---
+
 ## 📚 Explore the AI Dev Toolbox
 
 Quickly navigate through categories and uncover the most innovative AI-powered coding resources—from editors and completion engines to DevOps and security. Each section surfaces unique tools to help automate your workflow, supercharge productivity, and inspire your next project.
@@ -43,6 +45,8 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 * [🗄️ Database & API Helpers](#️-database--api-helpers)
 * [🎯 MLOps & Custom AI](#-mlops--custom-ai)
 * [📚 Related Curated Lists](#-related-curated-lists)
+
+---
 
 ## 🌟 AI Code Assistants & Editors
 
@@ -77,3 +81,32 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Windsurf](https://codeium.com/windsurf)** | AI-powered code editor with powerful flexible coding agent beyond simple autocompletion | Advanced development workflows |
 | **[Zed](https://zed.dev)** | High-performance, multiplayer code editor built in Rust with integrated AI assistance | Collaborative coding, performance |
 | **[ZZZ Code AI](https://zzzcode.ai)** | AI tool for code generation, debugging, and developer query resolution | Multi-language support, debugging |
+
+---
+
+## 🛠️ App & Project Builders
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[10Web](https://10web.io)** | AI-powered WordPress website builder with automated design, content generation, and optimization features | WordPress sites, content-heavy applications |
+| **[base44](https://base44.com)** | AI-native software development OS designed for startups to design, develop, and deploy products faster | Startup development, integrated workflows |
+| **[Bolt.new](https://bolt.new)** | AI-powered platform for building, editing, and deploying full-stack web applications directly in the browser | Rapid prototyping, full-stack web apps |
+| **[Builder.ai](https://builder.ai)** | AI-driven custom software development platform that automates app creation for web and mobile | Custom business applications, enterprise solutions |
+| **[Capacity](https://capacity.com)** | Agentic coding platform leveraging Claude Code to transform ideas into full-stack web applications | Complex web applications, minimal user input |
+| **[Create.xyz](https://create.xyz)** | AI-powered app creation platform that simplifies building web and mobile applications | Cross-platform development, automated code generation |
+| **[Cursor Composer](https://cursor.sh)** | AI-powered multi-file editing and project generation within Cursor IDE | Large-scale refactoring, project architecture |
+| **[Durable](https://durable.co)** | AI website and business application builder that creates complete solutions from simple text prompts | Business websites, complete solutions |
+| **[Dyad.sh](https://dyad.sh)** | Free, local, open-source AI app builder with flexibility for any AI model and IDE integration | Local development, open-source projects |
+| **[Firebase Studio](https://firebase.google.com)** | Google's AI-powered rapid app development platform with integrated backend services | Firebase ecosystem, Google Cloud integration |
+| **[FlutterFlow](https://flutterflow.io)** | Visual Flutter app builder with AI assistance for mobile and web applications | Mobile-first applications, Flutter development |
+| **[Framer](https://framer.com)** | AI-powered website builder with advanced design capabilities and interactive prototyping | Design-heavy websites, interactive prototypes |
+| **[Glide](https://glideapps.com)** | No-code platform that turns spreadsheets into powerful mobile and web apps with AI features | Data-driven apps, business tools |
+| **[Lovable](https://lovable.dev)** | AI-driven tool that enables users to create and deploy web applications from a single prompt | Single-prompt development, rapid deployment |
+| **[Mage](https://usemage.ai)** | AI-powered platform for generating full-stack applications from natural language prompts | Full-stack development, rapid prototyping |
+| **[MagicLoops](https://magicloops.dev)** | No-code platform that uses AI to create complete applications in minutes from text-based instructions | No-code development, text-to-app conversion |
+| **[Microsoft Power Platform](https://powerplatform.microsoft.com)** | Enterprise low-code platform with AI-powered app generation and workflow automation | Enterprise applications, Microsoft ecosystem |
+| **[Replit](https://replit.com)** | Complete cloud-based development environment with AI agent for building full applications | Education, collaborative development |
+| **[Rocket.new](https://rocket.new)** | AI-powered platform for rapid application development focusing on scalable apps | Scalable applications, rapid development |
+| **[Softr](https://softr.io)** | No-code app builder with AI assistance for creating client portals and business applications | Business applications, client portals |
+| **[Vercel v0](https://v0.dev)** | AI-powered UI generation platform that creates React components from text descriptions | React development, UI prototyping |
+| **[Webflow](https://webflow.com)** | Professional web design platform with AI features for content and design generation | Professional websites, marketing sites |
