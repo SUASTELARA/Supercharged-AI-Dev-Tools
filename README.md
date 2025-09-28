@@ -238,7 +238,4 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[OpenAI Codex](https://openai.com/blog/openai-codex)** | OpenAI's natural language to code model powering various coding assistants | API integration, custom applications |
 | **[Plandex](https://plandex.ai)** | AI-driven tool for planning and generating code from text prompts with file management | Complex projects, multi-file generation |
 | **[Pythagora.ai](https://pythagora.ai)** | AI-powered full-stack development platform with conversational interface | Full-stack applications, iterative development |
-| **[Replit Ghostwriter](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
-| **[Tabnine Chat](https://tabnine.com/chat)** | Conversational AI that generates code from natural language within IDEs | IDE integration, contextual code generation |
-| **[ToolHive](https://toolhive.ai)** | AI platform for converting natural language into tool-specific code | Domain-specific applications, specialized tools |
-| **[Vibe Compiler](https://vibecompiler.com)** | AI tool for translating natural language into executable code | Rapid prototyping, idea validation |
+| **[Replit](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
