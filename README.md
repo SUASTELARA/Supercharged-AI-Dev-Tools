@@ -234,7 +234,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | Tool | Description | Best For |
 |------|-------------|----------|
 | **[AlphaCode (DeepMind)](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)** | Advanced model for solving programming challenges from plain-English instructions | Competitive programming, problem solving |
-| **[Autodoc](https://autodoc.ai)** | AI-powered tool for generating code from natural language specifications | Technical specifications, API generation |
 | **[ChatGPT (OpenAI)](https://chat.openai.com)** | Can be prompted with English to generate functional code and explain steps | General code writing, rapid prototyping |
 | **[CodeConvert AI](https://codeconvert.ai)** | Converts between 50+ languages using plain text or natural language queries | Multi-language code migration |
 | **[CodeT5](https://github.com/salesforce/CodeT5)** | Open-source model for generating code from natural language descriptions | Research, custom solutions |
