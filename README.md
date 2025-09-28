@@ -141,3 +141,28 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Task Master](https://taskmaster.dev)** | AI-driven task management system designed for Cursor AI workflows | Task management, development planning |
 | **[Warp](https://warp.dev)** | AI-enhanced terminal with intelligent command suggestions and workflow optimization | Terminal enhancement, command assistance |
 | **[Zed Collaboration](https://zed.dev)** | Real-time collaborative editing with AI assistance and shared workspaces | Team collaboration, pair programming |
+
+---
+
+## ✍️ Code Completion Engines
+
+*Intelligent autocompletion systems that predict and suggest code as you type, powered by advanced language models trained on vast codebases to accelerate development and reduce repetitive coding tasks.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer)** | Real-time AI code suggestions with security vulnerability scanning and enterprise privacy controls | AWS development, security-conscious teams |
+| **[Amazon Q Developer](https://aws.amazon.com/q/developer)** | AI assistant for code completion, debugging, and AWS integration | AWS ecosystem, cloud development |
+| **[Cascade](https://codeium.com/windsurf)** | Windsurf's powerful coding agent as a code editor and IDE extension | Advanced completion, intelligent refactoring |
+| **[CodeGeeX](https://codegeex.ai)** | Multilingual code generation model supporting multiple programming languages | Multi-language development, open-source |
+| **[Codeium](https://codeium.com)** | AI-powered code autocompletion for multiple languages and IDEs with generous free tier | Budget-conscious developers, students |
+| **[Continue](https://continue.dev)** | Open-source AI tool for code completion and IDE integration with custom model support | Self-hosted solutions, custom models |
+| **[GitHub Copilot](https://github.com/features/copilot)** | AI-driven code completion tool for real-time suggestions in IDEs | GitHub users, mainstream development |
+| **[Google Code Assist (Gemini)](https://cloud.google.com/ai/gemini-code-assist)** | AI-driven coding assistant for Google Cloud developers with Gemini integration | Google Cloud, enterprise development |
+| **[JetBrains AI Assistant](https://jetbrains.com/ai)** | Integrated AI for code completion and analysis in JetBrains IDEs | JetBrains users, IntelliJ ecosystem |
+| **[Refact.ai](https://refact.ai)** | AI-powered code completion and refactoring for optimized development | Code optimization, refactoring workflows |
+| **[Replit Ghostwriter](https://replit.com/ghostwriter)** | AI code completion for fast prototyping in Replit's cloud environment | Education, rapid prototyping |
+| **[Sourcery](https://sourcery.ai)** | Python-focused AI code completion with automatic code review and suggestions | Python development, code quality |
+| **[Supermaven](https://supermaven.com)** | Ultra-fast AI code completion with 300ms latency and large context windows | Performance-critical development, speed |
+| **[Tabnine](https://tabnine.com)** | AI code completion with deep learning for personalized suggestions and team training | Enterprise teams, personalized AI |
+| **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode)** | Microsoft's AI-powered code completion for Visual Studio ecosystem | .NET development, Microsoft stack |
+| **[Warp AI](https://warp.dev)** | AI-enhanced terminal with intelligent command completion and explanations | Terminal workflows, DevOps |
