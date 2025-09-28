@@ -236,10 +236,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[AlphaCode (DeepMind)](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)** | Advanced model for solving programming challenges from plain-English instructions | Competitive programming, problem solving |
 | **[ChatGPT (OpenAI)](https://chat.openai.com)** | Can be prompted with English to generate functional code and explain steps | General code writing, rapid prototyping |
 | **[CodeConvert AI](https://codeconvert.ai)** | Converts between 50+ languages using plain text or natural language queries | Multi-language code migration |
-| **[Copilot Labs](https://github.com/github/copilot-labs)** | GitHub's experimental natural language to code translation features | GitHub ecosystem, experimental features |
-| **[DataPup](https://datapup.ai)** | AI-powered database client for generating context-based SQL queries from natural language | Database queries, data analysis |
-| **[Google Gemini Code Assist](https://cloud.google.com/ai/gemini-code-assist)** | Converts natural language into code for Google Cloud workflows; directly integrated with Gemini LLM | Cloud application development, enterprise automation |
-| **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** | AI agent that generates entire codebases from natural language prompts | Project scaffolding, rapid prototyping |
 | **[Lovable](https://lovable.dev)** | Natural language to app generation platform with deployment capabilities | Web applications, startup MVPs |
 | **[Marblism](https://marblism.com)** | AI-powered full-stack application generation from simple descriptions | Full-stack development, SaaS applications |
 | **[Natural Language Toolkit](https://github.com/explosion/spaCy)** | Advanced NLP library with code generation capabilities for text processing | NLP applications, text analysis |
