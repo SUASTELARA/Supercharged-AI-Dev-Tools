@@ -233,11 +233,9 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 | Tool | Description | Best For |
 |------|-------------|----------|
-| **[Lovable (GPT Engineer)](https://lovable.dev)** | Natural language to app generation platform with deployment capabilities | Web applications, startup MVPs |
-| **[Marblism](https://marblism.com)** | AI-powered full-stack application generation from simple descriptions | Full-stack development, SaaS applications |
+| **[Lovable](https://lovable.dev)** | Natural language to app generation platform with deployment capabilities | Web applications, startup MVPs |
 | **[Natural Language Toolkit](https://github.com/explosion/spaCy)** | Advanced NLP library with code generation capabilities for text processing | NLP applications, text analysis |
 | **[OpenAI Codex](https://openai.com/blog/openai-codex)** | OpenAI's natural language to code model powering various coding assistants | API integration, custom applications |
-| **[Parsel](https://github.com/ezelikman/parsel)** | Converts natural language descriptions into structured, hierarchical code | Academic research, algorithmic thinking |
 | **[Plandex](https://plandex.ai)** | AI-driven tool for planning and generating code from text prompts with file management | Complex projects, multi-file generation |
 | **[Pythagora.ai](https://pythagora.ai)** | AI-powered full-stack development platform with conversational interface | Full-stack applications, iterative development |
 | **[Replit Ghostwriter](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
