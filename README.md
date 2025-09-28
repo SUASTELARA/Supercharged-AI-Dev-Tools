@@ -166,3 +166,25 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Tabnine](https://tabnine.com)** | AI code completion with deep learning for personalized suggestions and team training | Enterprise teams, personalized AI |
 | **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode)** | Microsoft's AI-powered code completion for Visual Studio ecosystem | .NET development, Microsoft stack |
 | **[Warp AI](https://warp.dev)** | AI-enhanced terminal with intelligent command completion and explanations | Terminal workflows, DevOps |
+
+---
+
+## 🧠 Code Search & Navigation
+
+*Advanced search and navigation tools that help you understand, explore, and navigate large codebases using AI-powered semantic search, code understanding, and intelligent indexing.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[16x Prompt](https://16x.engineer)** | AI tool for enhanced code search and prompt-based navigation | Code exploration, context discovery |
+| **[Blinky Debugging Agent](https://blinky.ai)** | AI agent for debugging and navigating code issues | Debugging workflows, issue resolution |
+| **[Code Search (GitHub)](https://github.com/features/code-search)** | GitHub's AI-enhanced code search across repositories with semantic understanding | GitHub repositories, open source exploration |
+| **[Cosine](https://cosine.sh)** | AI-powered code search and understanding for developer productivity | Codebase comprehension, knowledge discovery |
+| **[DevDocs](https://devdocs.io)** | Fast, offline API documentation browser with AI-enhanced search capabilities | Documentation search, reference lookup |
+| **[Hound](https://houndci.com)** | Lightning-fast code search across multiple repositories with AI suggestions | Multi-repo search, team collaboration |
+| **[Pieces](https://pieces.app)** | AI-powered code snippet management and sharing with intelligent search | Code snippet organization, team sharing |
+| **[Ripgrep-all](https://github.com/phiresky/ripgrep-all)** | AI-enhanced search tool for code, documents, and archives | Comprehensive file search, content discovery |
+| **[Searchcode](https://searchcode.com)** | AI-powered code search engine across millions of open source repositories | Open source exploration, code examples |
+| **[Sourcegraph](https://sourcegraph.com)** | Universal code search platform with AI-powered navigation and insights | Enterprise codebases, large-scale search |
+| **[Sourcegraph Cody](https://sourcegraph.com/cody)** | AI-powered code search and navigation for large codebases with context awareness | Large repositories, code understanding |
+| **[Swimm](https://swimm.io)** | AI-powered code documentation and navigation that keeps docs synced with code | Code documentation, onboarding |
+| **[Wizi](https://wizi.ai)** | AI-driven code search tool for efficient repository exploration | Repository navigation, code discovery |
