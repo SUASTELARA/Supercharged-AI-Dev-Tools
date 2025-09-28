@@ -243,3 +243,28 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Pythagora.ai](https://pythagora.ai)** | AI-powered full-stack development platform with conversational interface | Full-stack applications, iterative development |
 | **[Replit](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
 | **[Tabnine](https://tabnine.com)** | Deep learning engine for code completion from natural prompts in IDEs | Cross-language code completion |
+
+---
+
+## 💻 Shell & CLI Assistants
+
+*AI-powered terminal and command-line tools that enhance shell productivity with intelligent command suggestions, natural language processing, and automated workflow optimization.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Aider](https://aider.chat)** | Open-source AI pair programming assistant that modifies or generates multi-file repositories from natural language | Terminal AI pair programming, multi-file edits |
+| **[AICommits](https://github.com/Nutlope/aicommits)** | AI-powered generator of meaningful Git commit messages based on code changes | Git commit automation |
+| **[Bito.ai](https://bito.ai)** | AI-powered dev assistant with CLI and editor integration | Coding assistance, CLI integration |
+| **[Butterfish](https://butterfi.sh)** | AI shell productivity enhancer that accepts natural language commands for faster workflows | Shell productivity, natural language commands |
+| **[Claude Code CLI](https://claude.ai/code)** | AI coding assistant in your terminal with reasoning and coding capabilities, built by Anthropic | Command line coding, code understanding |
+| **[Cmd-ai](https://cmd-ai.com)** | AI-driven CLI assistant for generating and optimizing shell commands and scripts | Shell automation, command optimization |
+| **[Codename Goose](https://goose.ai)** | Desktop and CLI AI automation tool using LLMs and extensions | Task automation, AI workers |
+| **[Forgecode](https://forgecode.com)** | AI shell assistant integrating with your CLI tools, supporting multiple AI models, self-hosted LLM options | Enterprise teams, scalable code refactoring |
+| **[Gemini CLI](https://github.com/google/gemini-cli)** | Google's open-source AI agent for the terminal powered by Gemini 2.5 Pro with 1M token context window | Terminal-based coding, large codebases, multi-step workflows |
+| **[GitHub Copilot CLI](https://cli.github.com)** | Official GitHub AI assistant for shell with context-aware command generation and suggestions | GitHub ecosystem, CLI workflows |
+| **[Mentat](https://mentat.ai)** | AI CLI coding assistant focused on command line development | CLI development assistant |
+| **[Opencode CLI](https://opencode.dev)** | AI coding assistant CLI for code generation and editing support | Coding automation, CLI tools |
+| **[ShellGPT](https://github.com/TheR1D/shell_gpt)** | ChatGPT-powered command-line tool for generating shell commands and system administration tasks | Command generation, sysadmin tasks |
+| **[Talk-Codebase](https://github.com/rsaryev/talk-codebase)** | Query and interact with codebases using natural language in CLI | Codebase exploration, natural language queries |
+| **[TmuxAI](https://tmuxai.com)** | AI assistant that automates and optimizes tmux terminal multiplexer workflows | Terminal multiplexing, workflow automation |
+| **[Warp](https://warp.dev)** | AI-enhanced terminal with smart command suggestions, workflows, and productivity features | Terminal productivity, smart command completion |
