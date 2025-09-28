@@ -136,7 +136,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 | Tool | Description | Best For |
 |------|-------------|----------|
-| **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer)** | Real-time AI code suggestions with security vulnerability scanning and enterprise privacy controls | AWS development, security-conscious teams |
 | **[Amazon Q Developer](https://aws.amazon.com/q/developer)** | AI assistant for code completion, debugging, and AWS integration | AWS ecosystem, cloud development |
 | **[Cascade](https://codeium.com/windsurf)** | Windsurf's powerful coding agent as a code editor and IDE extension | Advanced completion, intelligent refactoring |
 | **[CodeGeeX](https://codegeex.ai)** | Multilingual code generation model supporting multiple programming languages | Multi-language development, open-source |
