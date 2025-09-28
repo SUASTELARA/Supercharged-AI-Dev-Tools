@@ -208,7 +208,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[DeepSource](https://deepsource.io)** | Automated code review with technical debt tracking and security analysis | Technical debt management, code health |
 | **[Embold](https://embold.io)** | AI-powered code analysis focusing on maintainability and technical debt identification | Legacy codebases, refactoring projects |
 | **[ESLint](https://eslint.org)** | JavaScript linting tool with AI-enhanced capabilities and custom rules | JavaScript/TypeScript projects, code standards |
-| **[Gito](https://gito.ai)** | Open-source AI code reviewer for GitHub Actions with LLM compatibility | Open source projects, custom workflows |
 | **[JetBrains Qodana](https://jetbrains.com/qodana)** | AI-powered static analysis for code quality and refactoring across multiple languages | JetBrains ecosystem, enterprise quality |
 | **[PullRequest](https://pullrequest.com)** | Human-AI hybrid code review service combining automated analysis with expert reviewers | Critical applications, expert validation |
 | **[Qodo (CodiumAI)](https://qodo.ai)** | Comprehensive code review and automated test generation platform | Test-driven development, quality assurance |
