@@ -99,9 +99,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Framer](https://framer.com)** | AI-powered website builder with advanced design capabilities and interactive prototyping | Design-heavy websites, interactive prototypes |
 | **[Glide](https://glideapps.com)** | No-code platform that turns spreadsheets into powerful mobile and web apps with AI features | Data-driven apps, business tools |
 | **[Lovable](https://lovable.dev)** | AI-driven tool that enables users to create and deploy web applications from a single prompt | Single-prompt development, rapid deployment |
-| **[Mage](https://usemage.ai)** | AI-powered platform for generating full-stack applications from natural language prompts | Full-stack development, rapid prototyping |
 | **[MagicLoops](https://magicloops.dev)** | No-code platform that uses AI to create complete applications in minutes from text-based instructions | No-code development, text-to-app conversion |
-| **[Microsoft Power Platform](https://powerplatform.microsoft.com)** | Enterprise low-code platform with AI-powered app generation and workflow automation | Enterprise applications, Microsoft ecosystem |
 | **[Replit](https://replit.com)** | Complete cloud-based development environment with AI agent for building full applications | Education, collaborative development |
 | **[Rocket.new](https://rocket.new)** | AI-powered platform for rapid application development focusing on scalable apps | Scalable applications, rapid development |
 | **[Softr](https://softr.io)** | No-code app builder with AI assistance for creating client portals and business applications | Business applications, client portals |
