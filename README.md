@@ -224,3 +224,28 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[StarCoder](https://github.com/bigcode-project/starcoder)** | Open-source LLM for code generation and programming tasks with large context | Large codebase understanding, research |
 | **[StarCoder2](https://github.com/bigcode-project/starcoder2)** | Next-generation StarCoder with improved performance and efficiency | Advanced code generation, production use |
 | **[WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)** | Code-focused model fine-tuned with Evol-Instruct for enhanced problem-solving | Complex programming tasks, algorithm development |
+
+---
+
+## ⚙️ NL → Code Solutions
+
+*Tools that bridge the gap between human language and code by translating natural language descriptions, specifications, and requirements directly into functional programming code across various languages and frameworks.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Autodoc](https://autodoc.ai)** | AI-powered tool for generating code from natural language specifications | Technical specifications, API generation |
+| **[CodeT5](https://github.com/salesforce/CodeT5)** | Salesforce's text-to-code model supporting multiple programming languages | Research applications, custom implementations |
+| **[Copilot Labs](https://github.com/github/copilot-labs)** | GitHub's experimental natural language to code translation features | GitHub ecosystem, experimental features |
+| **[DataPup](https://datapup.ai)** | AI-powered database client for generating context-based SQL queries from natural language | Database queries, data analysis |
+| **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** | AI agent that generates entire codebases from natural language prompts | Project scaffolding, rapid prototyping |
+| **[Lovable (GPT Engineer)](https://lovable.dev)** | Natural language to app generation platform with deployment capabilities | Web applications, startup MVPs |
+| **[Marblism](https://marblism.com)** | AI-powered full-stack application generation from simple descriptions | Full-stack development, SaaS applications |
+| **[Natural Language Toolkit](https://github.com/explosion/spaCy)** | Advanced NLP library with code generation capabilities for text processing | NLP applications, text analysis |
+| **[OpenAI Codex](https://openai.com/blog/openai-codex)** | OpenAI's natural language to code model powering various coding assistants | API integration, custom applications |
+| **[Parsel](https://github.com/ezelikman/parsel)** | Converts natural language descriptions into structured, hierarchical code | Academic research, algorithmic thinking |
+| **[Plandex](https://plandex.ai)** | AI-driven tool for planning and generating code from text prompts with file management | Complex projects, multi-file generation |
+| **[Pythagora.ai](https://pythagora.ai)** | AI-powered full-stack development platform with conversational interface | Full-stack applications, iterative development |
+| **[Replit Ghostwriter](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
+| **[Tabnine Chat](https://tabnine.com/chat)** | Conversational AI that generates code from natural language within IDEs | IDE integration, contextual code generation |
+| **[ToolHive](https://toolhive.ai)** | AI platform for converting natural language into tool-specific code | Domain-specific applications, specialized tools |
+| **[Vibe Compiler](https://vibecompiler.com)** | AI tool for translating natural language into executable code | Rapid prototyping, idea validation |
