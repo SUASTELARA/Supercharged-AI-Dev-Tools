@@ -115,12 +115,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | Tool | Description | Best For |
 |------|-------------|----------|
 | **[Alfred](https://alfredapp.com)** | Productivity app with AI workflows and developer automation capabilities | macOS productivity, custom workflows |
-| **[Codeflash](https://codeflash.io)** | Ship Blazing-Fast Python Code — Every Time | Python optimization, performance |
-| **[Context7](https://context7.dev)** | MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management | Token optimization, documentation |
-| **[Echo](https://echo.dev)** | Open-source Billing and Auth solution for AI apps with easy Vercel AI SDK integration | AI app monetization, billing systems |
-| **[Fig](https://fig.io)** | Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS) | Terminal productivity, AWS integration |
 | **[GitKraken Glo](https://gitkraken.com)** | AI-enhanced project management and issue tracking for development teams | Project management, team collaboration |
-| **[Memory Bank](https://memorybank.dev)** | Token-optimized, hierarchical task management system that integrates with Cursor | Task management, workflow efficiency |
 | **[Notion AI](https://notion.so)** | AI-powered workspace for documentation, project planning, and knowledge management | Documentation, team wikis |
 | **[Obsidian](https://obsidian.md)** | Knowledge management tool with AI plugins for developers and researchers | Knowledge graphs, note-taking |
 | **[Perplexity Pro](https://perplexity.ai)** | AI-powered search engine with real-time web access for coding solutions | Research, problem-solving |
