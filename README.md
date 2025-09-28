@@ -114,3 +114,30 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Softr](https://softr.io)** | No-code app builder with AI assistance for creating client portals and business applications | Business applications, client portals |
 | **[Vercel v0](https://v0.dev)** | AI-powered UI generation platform that creates React components from text descriptions | React development, UI prototyping |
 | **[Webflow](https://webflow.com)** | Professional web design platform with AI features for content and design generation | Professional websites, marketing sites |
+
+---
+
+## ✨ Developer Utility Tools
+
+*Specialized tools and extensions that enhance your development environment with AI-powered productivity features, task management, context awareness, and workflow optimization.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Alfred](https://alfredapp.com)** | Productivity app with AI workflows and developer automation capabilities | macOS productivity, custom workflows |
+| **[Codeflash](https://codeflash.io)** | Ship Blazing-Fast Python Code — Every Time | Python optimization, performance |
+| **[Context7](https://context7.dev)** | MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management | Token optimization, documentation |
+| **[Echo](https://echo.dev)** | Open-source Billing and Auth solution for AI apps with easy Vercel AI SDK integration | AI app monetization, billing systems |
+| **[Fig](https://fig.io)** | Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS) | Terminal productivity, AWS integration |
+| **[GitKraken Glo](https://gitkraken.com)** | AI-enhanced project management and issue tracking for development teams | Project management, team collaboration |
+| **[Memory Bank](https://memorybank.dev)** | Token-optimized, hierarchical task management system that integrates with Cursor | Task management, workflow efficiency |
+| **[Notion AI](https://notion.so)** | AI-powered workspace for documentation, project planning, and knowledge management | Documentation, team wikis |
+| **[Obsidian](https://obsidian.md)** | Knowledge management tool with AI plugins for developers and researchers | Knowledge graphs, note-taking |
+| **[Perplexity Pro](https://perplexity.ai)** | AI-powered search engine with real-time web access for coding solutions | Research, problem-solving |
+| **[Pieces](https://pieces.app)** | AI-powered code snippet management and sharing platform | Code snippet management, team sharing |
+| **[Raycast](https://raycast.com)** | AI-powered productivity launcher with coding capabilities and developer workflow automation | Productivity, workflow automation |
+| **[Retool](https://retool.com)** | AI-powered internal tool builder for creating admin panels and dashboards | Internal tools, admin interfaces |
+| **[SpecStory](https://specstory.ai)** | Extension for summarizing context across AI chats and preserving task intents | Context management, task preservation |
+| **[Supercode.sh](https://supercode.sh)** | Cursor extension with Architect Mode, voice input, and prompt enhancement | Cursor enhancement, advanced features |
+| **[Task Master](https://taskmaster.dev)** | AI-driven task management system designed for Cursor AI workflows | Task management, development planning |
+| **[Warp](https://warp.dev)** | AI-enhanced terminal with intelligent command suggestions and workflow optimization | Terminal enhancement, command assistance |
+| **[Zed Collaboration](https://zed.dev)** | Real-time collaborative editing with AI assistance and shared workspaces | Team collaboration, pair programming |
