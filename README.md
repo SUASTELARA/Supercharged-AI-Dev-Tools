@@ -237,14 +237,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[ChatGPT (OpenAI)](https://chat.openai.com)** | Can be prompted with English to generate functional code and explain steps | General code writing, rapid prototyping |
 | **[CodeConvert AI](https://codeconvert.ai)** | Converts between 50+ languages using plain text or natural language queries | Multi-language code migration |
 | **[Lovable](https://lovable.dev)** | Natural language to app generation platform with deployment capabilities | Web applications, startup MVPs |
-| **[Marblism](https://marblism.com)** | AI-powered full-stack application generation from simple descriptions | Full-stack development, SaaS applications |
-| **[Natural Language Toolkit](https://github.com/explosion/spaCy)** | Advanced NLP library with code generation capabilities for text processing | NLP applications, text analysis |
 | **[OpenAI Codex](https://openai.com/blog/openai-codex)** | OpenAI's natural language to code model powering various coding assistants | API integration, custom applications |
-| **[Parsel](https://github.com/ezelikman/parsel)** | Converts natural language descriptions into structured, hierarchical code | Academic research, algorithmic thinking |
-| **[Plandex](https://plandex.ai)** | AI-driven tool for planning and generating code from text prompts with file management | Complex projects, multi-file generation |
 | **[Pythagora.ai](https://pythagora.ai)** | AI-powered full-stack development platform with conversational interface | Full-stack applications, iterative development |
-| **[Replit Ghostwriter](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
+| **[Replit](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
 | **[Tabnine](https://tabnine.com)** | Deep learning engine for code completion from natural prompts in IDEs | Cross-language code completion |
-| **[Tabnine Chat](https://tabnine.com/chat)** | Conversational AI that generates code from natural language within IDEs | IDE integration, contextual code generation |
-| **[ToolHive](https://toolhive.ai)** | AI platform for converting natural language into tool-specific code | Domain-specific applications, specialized tools |
-| **[Vibe Compiler](https://vibecompiler.com)** | AI tool for translating natural language into executable code | Rapid prototyping, idea validation |
