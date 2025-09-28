@@ -203,3 +203,24 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Sourcery](https://sourcery.ai)** | AI code reviewer supporting 30+ languages with actionable feedback | Python development, code optimization |
 | **[Squire.ai](https://squire.ai)** | AI-powered code review and quality assurance with intelligent recommendations | Modern development teams, automation |
 | **[Veracode](https://veracode.com)** | AI-driven application security platform with static and dynamic analysis | Application security, compliance |
+
+---
+
+## 📦 LLM Models for Code
+
+*Large language models specifically trained or fine-tuned for code generation, completion, and understanding tasks. These foundational models power many of the coding assistants and can be used directly via APIs or self-hosted deployments.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding)** | Meta AI's LLM optimized for code generation and completion with multiple model sizes | General code generation, self-hosting |
+| **[CodeGemma](https://ai.google.dev/gemma/docs/codegemma)** | Google's lightweight code-focused model based on Gemma architecture | Efficient deployment, code understanding |
+| **[Codestral](https://mistral.ai/news/codestral)** | Mistral's open-weight generative AI model explicitly designed for code generation tasks | European AI compliance, commercial use |
+| **[DeepSeek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)** | High-performance open-source code model with strong mathematical reasoning | Mathematical programming, competitive coding |
+| **[Granite Code](https://github.com/ibm-granite/granite-code-models)** | IBM's family of open-source code models trained on diverse programming languages | Enterprise deployment, IBM ecosystem |
+| **[Phi-3 Code](https://azure.microsoft.com/en-us/products/phi-3)** | Microsoft's lightweight LLM for efficient code generation with small footprint | Edge deployment, resource-constrained environments |
+| **[Qwen2.5-Coder](https://qwenlm.github.io/blog/qwen2.5)** | Alibaba's advanced code model with strong multilingual programming capabilities | Multilingual development, Asian markets |
+| **[Salesforce CodeGen](https://github.com/salesforce/CodeGen)** | Open-source LLM for generating high-quality code with conversational programming | Research, conversational coding |
+| **[SantaCoder](https://huggingface.co/bigcode/santacoder)** | BigCode's multilingual code model trained on permissively licensed code | Open source development, ethical AI |
+| **[StarCoder](https://github.com/bigcode-project/starcoder)** | Open-source LLM for code generation and programming tasks with large context | Large codebase understanding, research |
+| **[StarCoder2](https://github.com/bigcode-project/starcoder2)** | Next-generation StarCoder with improved performance and efficiency | Advanced code generation, production use |
+| **[WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)** | Code-focused model fine-tuned with Evol-Instruct for enhanced problem-solving | Complex programming tasks, algorithm development |
