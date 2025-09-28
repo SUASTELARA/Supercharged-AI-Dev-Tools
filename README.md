@@ -233,11 +233,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 | Tool | Description | Best For |
 |------|-------------|----------|
-| **[Autodoc](https://autodoc.ai)** | AI-powered tool for generating code from natural language specifications | Technical specifications, API generation |
-| **[CodeT5](https://github.com/salesforce/CodeT5)** | Salesforce's text-to-code model supporting multiple programming languages | Research applications, custom implementations |
-| **[Copilot Labs](https://github.com/github/copilot-labs)** | GitHub's experimental natural language to code translation features | GitHub ecosystem, experimental features |
-| **[DataPup](https://datapup.ai)** | AI-powered database client for generating context-based SQL queries from natural language | Database queries, data analysis |
-| **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** | AI agent that generates entire codebases from natural language prompts | Project scaffolding, rapid prototyping |
 | **[Lovable (GPT Engineer)](https://lovable.dev)** | Natural language to app generation platform with deployment capabilities | Web applications, startup MVPs |
 | **[Marblism](https://marblism.com)** | AI-powered full-stack application generation from simple descriptions | Full-stack development, SaaS applications |
 | **[Natural Language Toolkit](https://github.com/explosion/spaCy)** | Advanced NLP library with code generation capabilities for text processing | NLP applications, text analysis |
