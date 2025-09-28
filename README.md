@@ -58,7 +58,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[AskCodi](https://askcodi.com)** | AI coding assistant with premium features for enhanced capabilities | Advanced features, premium workflows |
 | **[Blackbox AI](https://blackbox.ai)** | AI-driven coding assistant with intelligent code completions and documentation | Code completion, documentation |
 | **[Claude Code](https://claude.ai/code)** | Anthropic's command-line coding assistant with advanced reasoning capabilities | Complex problem solving, architectural decisions |
-| **[Codel](https://codel.so)** | AI-powered development environment | Full-stack development |
 | **[Codeium](https://codeium.com)** | Free AI code completion tool with support for 70+ languages | Budget-conscious developers, students |
 | **[Cody (Sourcegraph)](https://sourcegraph.com/cody)** | AI assistant for code understanding, navigation, and generation across repositories | Large codebases, enterprise teams |
 | **[Continue](https://continue.dev)** | Open-source AI code assistant that connects to any LLM | Customizable AI assistance, self-hosted |
@@ -66,12 +65,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Devin AI](https://devin.ai)** | Autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end | Full project automation, complex tasks |
 | **[GitHub Copilot](https://github.com/features/copilot)** | AI pair programmer that suggests code and entire functions in real-time | VSCode users, GitHub ecosystem |
 | **[Jupyter AI](https://jupyter-ai.readthedocs.io)** | AI-powered extensions for Jupyter notebooks enabling natural language code generation | Data science, research, analysis |
-| **[Kilo Code](https://kilocode.com)** | AI-enhanced coding tool for generating and optimizing code workflows | Code optimization, workflow automation |
 | **[Kiro](https://kiro.ai)** | AI-powered development environment | Modern development workflows |
 | **[Magic](https://magic.dev)** | AI software engineer platform that understands codebases and handles complex development tasks autonomously | Complex refactoring, large-scale changes |
 | **[Melty](https://melty.sh)** | AI-powered development environment with intelligent assistance | Integrated development workflows |
 | **[Memex](https://memex.ai)** | AI assistant for contextual code insights and personalized developer support | Context-aware assistance |
-| **[PearAI](https://pearai.com)** | AI-powered development assistant | VSCode alternative with AI-first approach |
 | **[Phind](https://phind.com)** | AI search and coding assistant for instant answers and code solutions | Research, debugging, learning |
 | **[Qoder](https://qoder.io)** | Agentic Coding Platform for Real Software Think Deeper. Build Better | Enterprise-grade agentic development |
 | **[Replit Agent](https://replit.com)** | Advanced AI agent within Replit that builds complete applications from natural language descriptions | Rapid prototyping, education |
