@@ -90,8 +90,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[10Web](https://10web.io)** | AI-powered WordPress website builder with automated design, content generation, and optimization features | WordPress sites, content-heavy applications |
 | **[base44](https://base44.com)** | AI-native software development OS designed for startups to design, develop, and deploy products faster | Startup development, integrated workflows |
 | **[Bolt.new](https://bolt.new)** | AI-powered platform for building, editing, and deploying full-stack web applications directly in the browser | Rapid prototyping, full-stack web apps |
-| **[Builder.ai](https://builder.ai)** | AI-driven custom software development platform that automates app creation for web and mobile | Custom business applications, enterprise solutions |
-| **[Capacity](https://capacity.com)** | Agentic coding platform leveraging Claude Code to transform ideas into full-stack web applications | Complex web applications, minimal user input |
 | **[Create.xyz](https://create.xyz)** | AI-powered app creation platform that simplifies building web and mobile applications | Cross-platform development, automated code generation |
 | **[Cursor Composer](https://cursor.sh)** | AI-powered multi-file editing and project generation within Cursor IDE | Large-scale refactoring, project architecture |
 | **[Durable](https://durable.co)** | AI website and business application builder that creates complete solutions from simple text prompts | Business websites, complete solutions |
