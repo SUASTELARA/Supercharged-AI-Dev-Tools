@@ -12,3 +12,34 @@ Curated for developers, teams, researchers, and tech enthusiasts aiming to boost
 * Collaborate, share feedback, and contribute to the future of AI in coding.
 
 Ready to revolutionize your workflow? Dive in to explore, learn, and build smarter with AI!
+
+## 📚 Explore the AI Dev Toolbox
+
+Quickly navigate through categories and uncover the most innovative AI-powered coding resources—from editors and completion engines to DevOps and security. Each section surfaces unique tools to help automate your workflow, supercharge productivity, and inspire your next project.
+
+### 🔗 Quick Access
+
+* 🌟 Code Assistants & Editors
+* 🛠️ App & Project Builders
+* ✨ Developer Utility Tools
+* ✍️ Code Completion Engines
+* 🧠 Code Search & Navigation
+* 🔍 Review & Refactor Agents
+* 📦 LLM Models for Code
+* ⚙️ NL → Code Solutions
+* 💻 Shell & CLI Assistants
+* 🤖 Autonomous Coding Agents
+* 🔄 PR Review Automation
+* 🧪 Testing & QA Tools
+* 🧰 App Generators & Scaffolds
+* 🎨 UI Generation Tools
+* 🔎 Snippet & Regex Finders
+* 📖 Docs & Knowledge Tools
+* 💬 ChatGPT in IDEs
+* 🚀 DevOps & Infrastructure
+* 🔒 Security & Compliance
+* 🛡️ AI Security Utilities
+* 📱 Mobile Dev Resources
+* 🗄️ Database & API Helpers
+* 🎯 MLOps & Custom AI
+* 📚 Related Curated Lists
