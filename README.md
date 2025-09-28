@@ -263,3 +263,39 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Opencode CLI](https://opencode.dev)** | AI coding assistant CLI for code generation and editing support | Coding automation, CLI tools |
 | **[ShellGPT](https://github.com/TheR1D/shell_gpt)** | ChatGPT-powered command-line tool for generating shell commands and system administration tasks | Command generation, sysadmin tasks |
 | **[Warp](https://warp.dev)** | AI-enhanced terminal with smart command suggestions, workflows, and productivity features | Terminal productivity, smart command completion |
+
+---
+
+## 🤖 Autonomous Coding Agents
+
+*Self-directed AI agents that can independently plan, code, test, and deploy software projects with minimal human intervention, handling complex multi-step development workflows autonomously.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Aider](https://aider.chat)** | AI agent for collaborative, multi-file code editing and generation | Collaborative coding, multi-file projects |
+| **[Auto-Dev](https://auto-dev.ai)** | AI development assistant automating coding and testing operations | Automated coding pipelines |
+| **[Cline (Claude Dev)](https://github.com/cline/cline)** | VS Code extension integrating Claude AI with filesystem access for autonomous development | IDE-integrated AI coding |
+| **[Claude Code](https://claude.ai/code)** | Anthropic's AI agent for code generation and developer support with reasoning | Complex code generation and debugging |
+| **[Deebo](https://deebo.ai)** | AI assistant automating coding and debugging workflows | Coding workflow assistance |
+| **[Devon](https://devon.ai)** | Autonomous coding agent that plans, codes, tests, and debugs independently | AI-driven autonomous coding |
+| **[DevOpsGPT](https://devopsgpt.com)** | Autonomous AI agent automating DevOps processes and code integration | Automated DevOps workflows |
+| **[Factory](https://factory.ai)** | AI platform automating repetitive development tasks and accelerating delivery | Development acceleration |
+| **[Fine](https://fine.dev)** | Autonomous AI software dev agent understanding requirements and iterating on code generation | Requirement-driven dev |
+| **[Flumes AI](https://flumes.ai)** | Unified memory infrastructure for AI agents; stores and retrieves facts & context across sessions | Context-rich code generation, Langchain compatible |
+| **[Gemini CLI](https://github.com/google/gemini-cli)** | Google's flexible, open-source terminal coding agent powered by Gemini LLM | Terminal coding assistant, large context |
+| **[GitHub Copilot Coding Agent](https://github.com/features/copilot)** | Asynchronous autonomous coding agent managing tasks via GitHub with pull requests and code reviews | GitHub-integrated autonomous coding |
+| **[Goose](https://goose.ai)** | AI-powered development task automation platform | Development automation |
+| **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** | AI agent builds full applications from natural language specs, iterative refinement | Full app development from prompts |
+| **[Jules AI](https://jules.ai)** | Google's autonomous coding agent connecting to GitHub, generating plans, and working in secure cloud | Cloud-based autonomous development |
+| **[JunieAI (JetBrains)](https://jetbrains.com/junie)** | AI agent integrated with JetBrains IDEs, planning, writing, testing, and refactoring code | IDE-embedded AI coding |
+| **[Maestro](https://maestro.ai)** | AI orchestration tool for managing complex, multi-agent development workflows | Development workflow automation |
+| **[OpenHands (OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** | Open-source autonomous software engineer supporting full dev lifecycle | End-to-end autonomous development |
+| **[Potpie](https://potpie.ai)** | Streamlined AI coding agent automating software development pipelines | Workflow automation |
+| **[Pythagora](https://pythagora.ai)** | Conversational AI agent handling full-stack app building and iterative dev | Conversational full-stack dev |
+| **[Replit Agent 3](https://replit.com)** | Latest Replit agent with extended runtime, self-debugging loop, and multi-agent capabilities | Extended autonomous coding sessions |
+| **[Rovo Dev](https://atlassian.com/software/rovo)** | Atlassian's specialized coding agent optimized for terminal use | Terminal focused autonomous coding |
+| **[Smol Developer](https://github.com/smol-ai/developer)** | Lightweight AI coding agent for rapid prototyping with prompt-driven full codebase scaffolding | Rapid prototyping, human-in-the-loop dev |
+| **[Software Agent AI](https://softwareagent.ai)** | Autonomous AI agents focused on software dev tasks with safety and auditability | Safe AI-assisted software creation |
+
+### Related Resources
+- **[AI Agent Platforms & Automation Tools](https://github.com/rembertdesigns/AI-Agent-Platforms-Automation-Tools)** - Comprehensive collection of AI agent platforms, automation frameworks, and implementation guides
