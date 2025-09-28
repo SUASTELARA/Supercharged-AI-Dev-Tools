@@ -219,5 +219,4 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[SonarQube](https://sonarqube.org)** | Code quality platform with AI-enhanced analysis and technical debt tracking | Enterprise development, quality gates |
 | **[Sourcery](https://sourcery.ai)** | AI code reviewer supporting 30+ languages with actionable feedback | Python development, code optimization |
 | **[Squire.ai](https://squire.ai)** | AI-powered code review and quality assurance with intelligent recommendations | Modern development teams, automation |
-| **[Terragon](https://terragon.ai)** | Comprehensive code review and automated test generation platform | Full-stack quality, test automation |
 | **[Veracode](https://veracode.com)** | AI-driven application security platform with static and dynamic analysis | Application security, compliance |
