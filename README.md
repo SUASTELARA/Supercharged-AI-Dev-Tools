@@ -138,7 +138,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 |------|-------------|----------|
 | **[Amazon Q Developer](https://aws.amazon.com/q/developer)** | AI assistant for code completion, debugging, and AWS integration | AWS ecosystem, cloud development |
 | **[Cascade](https://codeium.com/windsurf)** | Windsurf's powerful coding agent as a code editor and IDE extension | Advanced completion, intelligent refactoring |
-| **[CodeGeeX](https://codegeex.ai)** | Multilingual code generation model supporting multiple programming languages | Multi-language development, open-source |
 | **[Codeium](https://codeium.com)** | AI-powered code autocompletion for multiple languages and IDEs with generous free tier | Budget-conscious developers, students |
 | **[Continue](https://continue.dev)** | Open-source AI tool for code completion and IDE integration with custom model support | Self-hosted solutions, custom models |
 | **[GitHub Copilot](https://github.com/features/copilot)** | AI-driven code completion tool for real-time suggestions in IDEs | GitHub users, mainstream development |
