@@ -70,9 +70,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Melty](https://melty.sh)** | AI-powered development environment with intelligent assistance | Integrated development workflows |
 | **[Memex](https://memex.ai)** | AI assistant for contextual code insights and personalized developer support | Context-aware assistance |
 | **[Phind](https://phind.com)** | AI search and coding assistant for instant answers and code solutions | Research, debugging, learning |
-| **[Qoder](https://qoder.io)** | Agentic Coding Platform for Real Software Think Deeper. Build Better | Enterprise-grade agentic development |
 | **[Replit Agent](https://replit.com)** | Advanced AI agent within Replit that builds complete applications from natural language descriptions | Rapid prototyping, education |
-| **[StackSpot AI](https://stackspot.com)** | AI platform for enterprise-grade code generation and developer efficiency | Enterprise development, standardization |
 | **[Supermaven](https://supermaven.com)** | Extremely fast AI code completion with low latency responses | Performance-critical development |
 | **[Tabby](https://tabbyml.com)** | Self-hosted AI coding assistant with local deployment options | Privacy-focused teams, on-premise deployment |
 | **[Trae](https://trae.ai)** | An adaptive AI IDE that helps you code faster and collaborate with AI | Team collaboration, adaptive workflows |
