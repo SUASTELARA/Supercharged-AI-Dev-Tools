@@ -233,9 +233,25 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 | Tool | Description | Best For |
 |------|-------------|----------|
+| **[AlphaCode (DeepMind)](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)** | Advanced model for solving programming challenges from plain-English instructions | Competitive programming, problem solving |
+| **[Autodoc](https://autodoc.ai)** | AI-powered tool for generating code from natural language specifications | Technical specifications, API generation |
+| **[ChatGPT (OpenAI)](https://chat.openai.com)** | Can be prompted with English to generate functional code and explain steps | General code writing, rapid prototyping |
+| **[CodeConvert AI](https://codeconvert.ai)** | Converts between 50+ languages using plain text or natural language queries | Multi-language code migration |
+| **[CodeT5](https://github.com/salesforce/CodeT5)** | Open-source model for generating code from natural language descriptions | Research, custom solutions |
+| **[CodeWP](https://codewp.ai)** | AI chat and coding engine specialized for WordPress; converts prompts to working code | WordPress development, scripting |
+| **[Copilot Labs](https://github.com/github/copilot-labs)** | GitHub's experimental natural language to code translation features | GitHub ecosystem, experimental features |
+| **[DataPup](https://datapup.ai)** | AI-powered database client for generating context-based SQL queries from natural language | Database queries, data analysis |
+| **[Google Gemini Code Assist](https://cloud.google.com/ai/gemini-code-assist)** | Converts natural language into code for Google Cloud workflows; directly integrated with Gemini LLM | Cloud application development, enterprise automation |
+| **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** | AI agent that generates entire codebases from natural language prompts | Project scaffolding, rapid prototyping |
 | **[Lovable](https://lovable.dev)** | Natural language to app generation platform with deployment capabilities | Web applications, startup MVPs |
+| **[Marblism](https://marblism.com)** | AI-powered full-stack application generation from simple descriptions | Full-stack development, SaaS applications |
 | **[Natural Language Toolkit](https://github.com/explosion/spaCy)** | Advanced NLP library with code generation capabilities for text processing | NLP applications, text analysis |
 | **[OpenAI Codex](https://openai.com/blog/openai-codex)** | OpenAI's natural language to code model powering various coding assistants | API integration, custom applications |
+| **[Parsel](https://github.com/ezelikman/parsel)** | Converts natural language descriptions into structured, hierarchical code | Academic research, algorithmic thinking |
 | **[Plandex](https://plandex.ai)** | AI-driven tool for planning and generating code from text prompts with file management | Complex projects, multi-file generation |
 | **[Pythagora.ai](https://pythagora.ai)** | AI-powered full-stack development platform with conversational interface | Full-stack applications, iterative development |
-| **[Replit](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
+| **[Replit Ghostwriter](https://replit.com/site/ghostwriter)** | Natural language to code within Replit's educational environment | Education, learning programming |
+| **[Tabnine](https://tabnine.com)** | Deep learning engine for code completion from natural prompts in IDEs | Cross-language code completion |
+| **[Tabnine Chat](https://tabnine.com/chat)** | Conversational AI that generates code from natural language within IDEs | IDE integration, contextual code generation |
+| **[ToolHive](https://toolhive.ai)** | AI platform for converting natural language into tool-specific code | Domain-specific applications, specialized tools |
+| **[Vibe Compiler](https://vibecompiler.com)** | AI tool for translating natural language into executable code | Rapid prototyping, idea validation |
