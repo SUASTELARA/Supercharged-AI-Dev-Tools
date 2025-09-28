@@ -234,7 +234,9 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | Tool | Description | Best For |
 |------|-------------|----------|
 | **[AlphaCode (DeepMind)](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)** | Advanced model for solving programming challenges from plain-English instructions | Competitive programming, problem solving |
+| **[Bolt.new](https://bolt.new)** | AI-powered platform that builds full-stack web applications from natural language prompts | Rapid web app development, prototyping |
 | **[ChatGPT (OpenAI)](https://chat.openai.com)** | Can be prompted with English to generate functional code and explain steps | General code writing, rapid prototyping |
+| **[Claude](https://claude.ai)** | Anthropic's AI assistant with strong natural language to code translation capabilities | Complex reasoning, code architecture |
 | **[CodeConvert AI](https://codeconvert.ai)** | Converts between 50+ languages using plain text or natural language queries | Multi-language code migration |
 | **[Lovable](https://lovable.dev)** | Natural language to app generation platform with deployment capabilities | Web applications, startup MVPs |
 | **[OpenAI Codex](https://openai.com/blog/openai-codex)** | OpenAI's natural language to code model powering various coding assistants | API integration, custom applications |
