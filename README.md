@@ -188,3 +188,36 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Sourcegraph Cody](https://sourcegraph.com/cody)** | AI-powered code search and navigation for large codebases with context awareness | Large repositories, code understanding |
 | **[Swimm](https://swimm.io)** | AI-powered code documentation and navigation that keeps docs synced with code | Code documentation, onboarding |
 | **[Wizi](https://wizi.ai)** | AI-driven code search tool for efficient repository exploration | Repository navigation, code discovery |
+
+---
+
+## 🔍 Review & Refactor Agents
+
+*Automated code review and refactoring tools that analyze your codebase for quality issues, security vulnerabilities, technical debt, and optimization opportunities while suggesting improvements and fixes.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru)** | ML-powered code reviews with AWS integration and performance recommendations | AWS applications, performance optimization |
+| **[Amazon Q Developer Review Agent](https://aws.amazon.com/q/developer)** | AI tool for automated code reviews in AWS projects with security focus | AWS development, enterprise security |
+| **[Codacy](https://codacy.com)** | Comprehensive code quality platform with 30+ language support and automated fixes | Multi-language projects, team workflows |
+| **[CodeAnt AI](https://codeant.ai)** | AI-powered code review and quality analysis with intelligent suggestions | Modern codebases, quality automation |
+| **[CodeQL (GitHub)](https://codeql.github.com)** | Semantic code analysis for security and quality with deep vulnerability detection | Security research, vulnerability hunting |
+| **[CodeReviewBot](https://codereviewbot.ai)** | AI bot for automated code reviews and quality assurance with PR integration | GitHub workflows, automated QA |
+| **[Codiga](https://codiga.io)** | AI-powered static code analysis for security and quality checks across IDEs | Security-first development, compliance |
+| **[DeepCode (Snyk)](https://snyk.io/product/snyk-code)** | AI-based code review tool for detecting bugs and vulnerabilities with fix suggestions | Security vulnerabilities, bug detection |
+| **[DeepSource](https://deepsource.io)** | Automated code review with technical debt tracking and security analysis | Technical debt management, code health |
+| **[Embold](https://embold.io)** | AI-powered code analysis focusing on maintainability and technical debt identification | Legacy codebases, refactoring projects |
+| **[ESLint](https://eslint.org)** | JavaScript linting tool with AI-enhanced capabilities and custom rules | JavaScript/TypeScript projects, code standards |
+| **[Gito](https://gito.ai)** | Open-source AI code reviewer for GitHub Actions with LLM compatibility | Open source projects, custom workflows |
+| **[JetBrains Qodana](https://jetbrains.com/qodana)** | AI-powered static analysis for code quality and refactoring across multiple languages | JetBrains ecosystem, enterprise quality |
+| **[PullRequest](https://pullrequest.com)** | Human-AI hybrid code review service combining automated analysis with expert reviewers | Critical applications, expert validation |
+| **[Qodo (CodiumAI)](https://qodo.ai)** | Comprehensive code review and automated test generation platform | Test-driven development, quality assurance |
+| **[Refact.ai](https://refact.ai)** | AI-driven refactoring and code optimization for cleaner codebases | Code optimization, refactoring automation |
+| **[ReSharper](https://jetbrains.com/resharper)** | AI-enhanced refactoring and code quality tool for .NET developers | .NET development, Visual Studio integration |
+| **[ReviewNB](https://reviewnb.com)** | Jupyter notebook code review tool with diff visualization | Data science, notebook collaboration |
+| **[Semgrep](https://semgrep.dev)** | Static analysis tool for finding bugs and security issues with custom rules | Security scanning, custom rule enforcement |
+| **[SonarQube](https://sonarqube.org)** | Code quality platform with AI-enhanced analysis and technical debt tracking | Enterprise development, quality gates |
+| **[Sourcery](https://sourcery.ai)** | AI code reviewer supporting 30+ languages with actionable feedback | Python development, code optimization |
+| **[Squire.ai](https://squire.ai)** | AI-powered code review and quality assurance with intelligent recommendations | Modern development teams, automation |
+| **[Terragon](https://terragon.ai)** | Comprehensive code review and automated test generation platform | Full-stack quality, test automation |
+| **[Veracode](https://veracode.com)** | AI-driven application security platform with static and dynamic analysis | Application security, compliance |
