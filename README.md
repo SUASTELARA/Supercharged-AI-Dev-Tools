@@ -303,7 +303,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[DeepCode (Snyk)](https://snyk.io/product/snyk-code)** | AI-powered static analysis tool combining security and bug detection in PR reviews | Security-first reviews, vulnerability detection |
 | **[GitHub Copilot Code Reviews](https://github.com/features/copilot)** | Official GitHub AI agent managing PR sessions with contextual comment and fix suggestions | GitHub ecosystem, native integration |
 | **[Greptile](https://greptile.com)** | AI bot offering full repo-aware PR analysis with fewer false positives and custom review rules | Repo-wide context, custom rules |
-| **[Korbit.ai](https://korbit.ai)** | Provides contextual review, bug detection, performance insights, and team metrics | Team analytics, performance insights |
 | **[Nova](https://nova.ai)** | Automated AI code review agent providing detailed analysis and improvement suggestions | Detailed analysis, improvement suggestions |
 | **[Pixee](https://pixee.ai)** | Security-focused AI bot scanning pull requests for vulnerabilities and compliance | Security compliance, vulnerability scanning |
 | **[PullApprove](https://pullapprove.com)** | Flexible review automation tool with branch-specific rules and approval routing integrated with GitHub | Approval workflows, custom routing |
