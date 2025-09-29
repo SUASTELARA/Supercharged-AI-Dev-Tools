@@ -326,7 +326,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[ACCELQ Autopilot](https://accelq.com)** | Generative AI for full-lifecycle automation, test generation, healing, and QA acceleration | Full-lifecycle test automation, enterprise QA |
 | **[AskUI](https://askui.com)** | No-DOM, agentic AI testing platform using computer vision and natural language for UI automation | Visual testing, hybrid app automation |
 | **[Autify](https://autify.com)** | Self-healing, visual test automation with AI and codeless workflows | Visual regression, no-code testing |
-| **[AutonomIQ (Sauce Labs)]([https://saucelabs.com/platform/autonomiq](https://saucelabs.com)** | NLP-powered, low-code platform converting requirements into automated tests | Requirements-based testing, multi-channel |
+| **[AutonomIQ (Sauce Labs)](https://saucelabs.com)** | NLP-powered, low-code platform converting requirements into automated tests | Requirements-based testing, multi-channel |
 | **[Checksum AI](https://checksum.ai)** | AI-driven tool for automated software testing, validation, and E2E coverage based on real user sessions | Real user session testing, E2E coverage |
 | **[DiffBlue Cover](https://diffblue.com)** | Specialized in AI-generated Java unit testing with broad coverage | Java unit testing, legacy code |
 | **[Functionize](https://functionize.com)** | Machine-learning based platform for self-healing, scalable, and NLP-based functional tests | Self-healing tests, ML-powered QA |
@@ -342,7 +342,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Qodo](https://qodo.ai)** | AI agent for auto-generating robust, maintainable tests and code quality insights | Test generation, code quality |
 | **[Rainforest QA](https://rainforestqa.com)** | AI-assisted AND crowd-sourced, manual, and automated testing for QA flexibility | Hybrid testing, manual + automated |
 | **[Reflect](https://reflect.run)** | No-code, AI-powered test creation and self-healing with integrations for fast-moving teams | No-code testing, agile teams |
-| **[Test.ai](https://test.ai)** | Continuous functional and regression test automation for web/mobile apps using AI | Mobile testing, continuous QA |
 | **[Test Grid CoTester](https://testgrid.io)** | Generative AI test case creation and execution, supporting user story uploads and iterative chat prompts | User story testing, conversational QA |
 | **[TestCollab QA Copilot](https://testcollab.com)** | Auto-healing, English-to-script, intelligent feedback-based manual and automated test builder | Natural language testing, auto-healing |
 | **[Testim (Tricentis)](https://testim.io)** | Rapid AI-powered authoring, root-cause analysis, and auto-maintained E2E and regression tests | E2E testing, root-cause analysis |
