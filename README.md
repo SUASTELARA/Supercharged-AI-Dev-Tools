@@ -447,4 +447,31 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 ---
 
+## 🚀 DevOps & Infrastructure
+
+*AI-enhanced platforms for continuous integration, deployment, infrastructure automation, and operational workflows that optimize software delivery pipelines with intelligent monitoring and predictive insights.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Anodot](https://anodot.com)** | AI-driven real-time business metric monitoring and anomaly detection enhancing cloud cost optimization | Cost optimization, anomaly detection |
+| **[Azure DevOps](https://azure.microsoft.com/en-us/products/devops)** | Microsoft's comprehensive DevOps tools enhanced with AI for test automation and deployment prediction | Microsoft ecosystem, enterprise DevOps |
+| **[CircleCI](https://circleci.com)** | Cloud-based CI/CD platform using machine learning for optimization of job scheduling and pipeline efficiency | CI/CD optimization, pipeline automation |
+| **[CrewAI](https://crewai.com)** | Multi-agent AI platform designed for automated DevOps workflows and orchestrations | Multi-agent automation, orchestration |
+| **[Datadog](https://datadoghq.com)** | Comprehensive monitoring and observability platform with AI-powered insights for anomaly detection | Monitoring, observability, APM |
+| **[Digital.ai](https://digital.ai)** | End-to-end DevOps platform delivering AI-driven insights to optimize software delivery and governance | Enterprise DevOps, governance |
+| **[GitHub Actions](https://github.com/features/actions)** | CI/CD automation integrated into GitHub with AI features like Dependabot for vulnerability scanning | GitHub workflow, automated updates |
+| **[GitLab AI](https://gitlab.com)** | Integrated AI features across the GitLab ecosystem including code suggestions and security scanning | GitLab users, all-in-one DevOps |
+| **[Harness](https://harness.io)** | AI-empowered CI/CD platform with intelligent deployment strategies and automated rollbacks | Intelligent deployments, canary releases |
+| **[Jenkins X](https://jenkins-x.io)** | Cloud-native CI/CD solution featuring AI-enhanced automation for continuous integration | Kubernetes, cloud-native deployments |
+| **[Kubiya.ai](https://kubiya.ai)** | AI-powered platform for DevOps automation and cloud operation streamlining | Cloud operations, DevOps automation |
+| **[LambdaTest](https://lambdatest.com)** | AI-powered cross-browser testing platform with AI-native QA agent (KaneAI) for test creation | Cross-browser testing, test automation |
+| **[MindStudio](https://mindstudio.ai)** | AI agent platform enabling DevOps workflow automation through custom AI agents | Custom AI agents, workflow automation |
+| **[New Relic](https://newrelic.com)** | Observability platform with advanced AIOps capabilities including ML-based anomaly detection | AIOps, root cause analysis |
+| **[Opsera](https://opsera.io)** | Unified DevOps platform integrating AI to optimize workflow automation and delivery pipelines | Unified DevOps, pipeline optimization |
+| **[PagerDuty](https://pagerduty.com)** | AI-driven incident management and response automation streamlining operational workflows | Incident management, on-call automation |
+| **[Pulumi AI](https://pulumi.com)** | Infrastructure as code with AI assistance for managing and optimizing cloud resources | IaC, multi-cloud management |
+| **[Spacelift](https://spacelift.io)** | Infrastructure automation platform with AI-enhanced policy-as-code and predictive insights | Infrastructure automation, policy management |
+| **[Sysdig](https://sysdig.com)** | Cloud security and monitoring platform leveraging AI for threat detection and runtime security | Cloud security, threat detection |
+| **[Terraform Cloud](https://terraform.io)** | Infrastructure as code platform with AI-powered policy suggestions and optimization recommendations | Terraform workflows, IaC automation |
+| **[Warestack](https://warestack.com)** | AI-driven development infrastructure platform enhancing cloud resource management | Cloud resources, infrastructure management |
 
