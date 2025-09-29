@@ -366,16 +366,11 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Appy Pie AI App Builder](https://appypie.com)** | No-code, text/voice-to-app platform for fast mobile/web/PWA apps | No-code mobile apps, rapid deployment |
 | **[Base44](https://base44.com)** | Enterprise-grade, declarative AI-powered app building—real-time previews, hybrid flows | Enterprise applications, real-time development |
 | **[Bolt.new](https://bolt.new)** | Fast AI web app prototyping for multiple JS frameworks, robust error handling | JavaScript frameworks, quick prototypes |
-| **[Bubble](https://bubble.io)** | Visual, extensible no-code app builder now featuring AI for automation | Complex web apps, no-code workflows |
-| **[Builder.ai](https://builder.ai)** | End-to-end custom software generation with AI and agentic support | Custom software, enterprise solutions |
 | **[Builder.io](https://builder.io)** | Visual dev with AI for layouts, design, and e-commerce | Visual development, e-commerce |
-| **[Capacity](https://capacity.com)** | Claude Code-based agentic builder for complex full-stack web apps | Complex full-stack apps, AI-driven development |
 | **[Clappia](https://clappia.com)** | Operations and workflow-focused AI builder—replace paper processes | Business operations, workflow automation |
 | **[Co.dev](https://co.dev)** | Scalable AI-generated SaaS and web applications | SaaS products, scalable apps |
-| **[CreateLex](https://createlex.com)** | AI plugin for Unreal Engine—code, Blueprints, and graphs from NL prompts | Unreal Engine, game development |
 | **[Cursor AI](https://cursor.sh)** | AI-powered dev environment with agent-driven UI, code, and logic workflows | AI-assisted coding, agent workflows |
 | **[Databutton](https://databutton.com)** | AI/human agent iterative builder for web apps and MVPs | Iterative development, MVPs |
-| **[Durable](https://durable.co)** | Small business instant website and app generation by AI | Small business, quick websites |
 | **[FlutterFlow](https://flutterflow.io)** | AI-powered, visual builder for mobile, manual/prompt-driven flows | Flutter apps, mobile development |
 | **[Framer AI](https://framer.com)** | Instant NL-to-site builds with stunning design and performance | Design-focused websites, portfolios |
 | **[Glide](https://glideapps.com)** | Rapid mobile/web app creation from spreadsheets and templates | Spreadsheet-based apps, business tools |
@@ -383,10 +378,8 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[MagicLoops](https://magicloops.dev)** | App builder with NL interface—no coding required | No-code automation, workflows |
 | **[Manifest.build](https://manifest.build)** | Backend generator using AI prompts | Backend development, API generation |
 | **[Pico](https://picoapps.xyz)** | Quick AI MVP and web app creation from simple prompts | MVPs, rapid validation |
-| **[Quickbase](https://quickbase.com)** | Low-code, enterprise-level AI app generation | Enterprise apps, low-code development |
 | **[Replit](https://replit.com)** | Powerful AI-assisted cloud IDE with Ghostwriter app generator and cloud deployment | Cloud development, education |
 | **[Rocket.new](https://rocket.new)** | Scalable app generation for startups and enterprise | Scalable applications, rapid deployment |
-| **[Shakespeare](https://shakespeare.ai)** | Open-source, decentralized browser builder powered by chat and natural language | Open-source, decentralized apps |
 | **[Softr](https://softr.io)** | AI-assisted builder for web portals, CRMs, automation on Airtable/Sheets | Client portals, internal tools |
 | **[SoftGen](https://softgen.ai)** | Rapid builder for web apps—community ownership, co-op model, and open-source ethos | Community-driven, open-source |
 | **[Thunkable](https://thunkable.com)** | AI app builder for interactive cross-platform mobile apps, education, and rapid deployment | Cross-platform mobile, education |
