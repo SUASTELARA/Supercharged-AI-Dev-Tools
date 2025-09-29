@@ -314,3 +314,42 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 ### Related Resources
 - **[AI Agent Platforms & Automation Tools](https://github.com/rembertdesigns/AI-Agent-Platforms-Automation-Tools)** - Comprehensive collection of AI agent platforms and automation frameworks for development workflows
+
+---
+
+## 🧪 Testing & QA Tools
+
+*AI-powered testing and quality assurance platforms that automate test generation, execution, maintenance, and bug detection across web, mobile, and API applications with self-healing capabilities.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[ACCELQ Autopilot](https://accelq.com)** | Generative AI for full-lifecycle automation, test generation, healing, and QA acceleration | Full-lifecycle test automation, enterprise QA |
+| **[AskUI](https://askui.com)** | No-DOM, agentic AI testing platform using computer vision and natural language for UI automation | Visual testing, hybrid app automation |
+| **[Autify](https://autify.com)** | Self-healing, visual test automation with AI and codeless workflows | Visual regression, no-code testing |
+| **[AutonomIQ (Sauce Labs)](https://saucelabs.com/platform/autonomiq)** | NLP-powered, low-code platform converting requirements into automated tests | Requirements-based testing, multi-channel |
+| **[Checksum AI](https://checksum.ai)** | AI-driven tool for automated software testing, validation, and E2E coverage based on real user sessions | Real user session testing, E2E coverage |
+| **[Codeflash](https://codeflash.io)** | AI tool specializing in high-performance, bug-free Python code QA | Python testing, performance optimization |
+| **[DiffBlue Cover](https://diffblue.com)** | Specialized in AI-generated Java unit testing with broad coverage | Java unit testing, legacy code |
+| **[Functionize](https://functionize.com)** | Machine-learning based platform for self-healing, scalable, and NLP-based functional tests | Self-healing tests, ML-powered QA |
+| **[KushoAI](https://kusho.ai)** | AI agent for API and integration testing; generates, runs, validates, and heals test cases | API testing, integration testing |
+| **[LambdaTest KaneAI](https://lambdatest.com/kaneai)** | LLM-powered platform for cross-browser and device coverage, natural language test generation | Cross-browser testing, device coverage |
+| **[Launchable](https://launchableinc.com)** | AI-driven test optimization, prioritization, and prediction platform | Test optimization, CI/CD efficiency |
+| **[Mabl](https://mabl.com)** | AI-native test platform with auto-healing, visual, and API testing integrated into modern pipelines | Modern CI/CD, auto-healing tests |
+| **[Meticulous](https://meticulous.ai)** | AI tool for autonomous visual, regression, and bug-finding functional tests | Visual testing, regression detection |
+| **[OctoMind](https://octomind.dev)** | Agent-powered end-to-end test automation with AI-driven test generation, running, and fixing | E2E automation, autonomous testing |
+| **[Parasoft](https://parasoft.com)** | AI-enhanced suite for static analysis, unit, and API test automation, CI/CD compatible | Enterprise testing, comprehensive QA |
+| **[ProdPerfect](https://prodperfect.com)** | AI-powered system for E2E test creation and auto-maintenance from live traffic data | Production-based testing, live traffic analysis |
+| **[QA.tech](https://qa.tech)** | Modern AI-powered QA and automated testing platform | Modern QA workflows, automation |
+| **[Qodo](https://qodo.ai)** | AI agent for auto-generating robust, maintainable tests and code quality insights | Test generation, code quality |
+| **[Rainforest QA](https://rainforestqa.com)** | AI-assisted AND crowd-sourced, manual, and automated testing for QA flexibility | Hybrid testing, manual + automated |
+| **[Reflect](https://reflect.run)** | No-code, AI-powered test creation and self-healing with integrations for fast-moving teams | No-code testing, agile teams |
+| **[Test.ai](https://test.ai)** | Continuous functional and regression test automation for web/mobile apps using AI | Mobile testing, continuous QA |
+| **[Test Grid CoTester](https://testgrid.io)** | Generative AI test case creation and execution, supporting user story uploads and iterative chat prompts | User story testing, conversational QA |
+| **[TestCollab QA Copilot](https://testcollab.com)** | Auto-healing, English-to-script, intelligent feedback-based manual and automated test builder | Natural language testing, auto-healing |
+| **[Testim (Tricentis)](https://testim.io)** | Rapid AI-powered authoring, root-cause analysis, and auto-maintained E2E and regression tests | E2E testing, root-cause analysis |
+| **[TestRigor](https://testrigor.com)** | Plain English, generative AI-powered self-healing tests for web and mobile | Plain English testing, accessibility |
+| **[Testsprite](https://testsprite.com)** | AI-based testing automation and maintenance for web and mobile | Test maintenance, automation |
+| **[Tricentis Copilot](https://tricentis.com)** | AI test assistant for test generation from requirements, maintenance, and insights | Enterprise testing, test insights |
+
+### Related Resources
+- **[AI Agent Platforms & Automation Tools](https://github.com/rembertdesigns/AI-Agent-Platforms-Automation-Tools)** - Comprehensive collection of AI agent platforms and automation frameworks, including testing and QA automation tools
