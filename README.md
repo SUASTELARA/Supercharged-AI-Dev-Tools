@@ -554,9 +554,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[GitGuardian AI](https://gitguardian.com)** | AI-powered secret and credential leakage detection scanning repositories in real time to prevent data exposure | Secret scanning, credential protection |
 | **[Google Security Operations (SecOps)](https://cloud.google.com/security-operations)** | AI-powered cloud-native security with scalable threat detection, natural language queries, and automated response playbooks | Cloud security, unified case management |
 | **[HackerOne Code](https://hackerone.com)** | Combines AI and human expertise for context-aware vulnerability detection and secure remediation | Human-AI hybrid security, expert validation |
-| **[Microsoft Security Copilot & Sentinel](https://microsoft.com/security/copilot)** | Integrated AI security with natural language threat investigation and Sentinel-powered telemetry | Microsoft ecosystem, threat investigation |
 | **[SentinelOne Singularity](https://sentinelone.com)** | AI-based endpoint and cloud protection with behavioral models for autonomous threat detection and remediation | Endpoint protection, cloud workloads |
-| **[Snyk API & Web](https://snyk.io/product/snyk-api-web)** | Dynamic Application Security Testing (DAST) platform with AI-driven analysis for API and web app security | DAST, API security testing |
 | **[Snyk Code AI](https://snyk.io/product/snyk-code)** | Advanced SAST tool with DeepCode AI offering real-time vulnerability scanning and auto-fixes in IDEs | Developer-focused SAST, IDE integration |
 | **[Vectra AI](https://vectra.ai)** | AI-driven network detection and response focusing on identity threats and hybrid cloud attack detection | Network security, identity threats |
 | **[Wiz](https://wiz.io)** | Agentless cloud security with continuous vulnerability management and AI-driven risk prioritization across multi-cloud | Multi-cloud security, agentless scanning |
