@@ -416,12 +416,9 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | Tool | Description | Best For |
 |------|-------------|----------|
 | **[AI Code Convert](https://aicodeconvert.com)** | AI tool for seamless conversion of code snippets between multiple programming languages | Language migration, code translation |
-| **[AIRegex](https://airegex.com)** | Generates regex patterns from plain English descriptions, with debugging and optimization tools | Plain English regex, pattern debugging |
 | **[AutoRegex](https://autoregex.xyz)** | AI-powered tool that generates, explains, and debugs complex regular expressions from natural language | Natural language regex, learning patterns |
 | **[CodePal](https://codepal.ai)** | AI assistant generating reusable code snippets and utilities with multi-language support | Multi-language snippets, utility functions |
 | **[GitHub Copilot](https://github.com/features/copilot)** | Advanced AI code autocompletion tool that generates real-time code snippets based on your project context | Context-aware snippets, IDE integration |
 | **[Pieces](https://pieces.app)** | Powerful AI co-pilot that captures coding context, manages reusable snippets, and assists with on-the-fly generation | Context management, snippet organization |
 | **[Regex101](https://regex101.com)** | Popular interactive regex tester with AI-driven suggestion and visualization features | Regex testing, pattern visualization |
 | **[RegexBuddy](https://regexbuddy.com)** | AI-enhanced regex editor with pattern generation, testing, and explanation features | Advanced regex editing, Windows users |
-| **[Regexstorm](https://regexstorm.net)** | AI-powered regex engine and repository with immediate test feedback and code snippet suggestions | .NET regex, pattern repository |
-| **[Snippet Genius](https://snippetgenius.dev)** | AI-based snippet library and search platform optimized for developer productivity and code reuse | Snippet discovery, productivity |
