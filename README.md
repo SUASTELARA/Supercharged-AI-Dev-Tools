@@ -518,4 +518,3 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Splunk AI Analytics](https://splunk.com)** | Enterprise data analysis with AI-driven automation, anomaly detection, predictive analytics, and operational intelligence | Enterprise logging, security analytics |
 | **[Tableau AI](https://tableau.com)** | Business intelligence platform with AI-powered insights, automated analytics, and natural language querying | Data visualization, business analytics |
 | **[Whatagraph](https://whatagraph.com)** | AI-powered reporting with customizable visualizations and automated data cleaning from multiple sources | Marketing analytics, reporting automation |
-| **[WhyLabs](https://whylabs.ai)** | Open-source AI observability monitoring data drift, model drift, LLM security guardrails, and cohort analysis | ML model monitoring, privacy-focused |
