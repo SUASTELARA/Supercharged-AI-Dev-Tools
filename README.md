@@ -289,3 +289,31 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 ### Related Resources
 - **[AI Agent Platforms & Automation Tools](https://github.com/rembertdesigns/AI-Agent-Platforms-Automation-Tools)** - Comprehensive collection of AI agent platforms, automation frameworks, and implementation guides
+
+---
+
+## 🔄 PR Review Automation
+
+*Automated pull request review tools that analyze code changes, detect issues, provide security scanning, and offer intelligent feedback to streamline code review workflows and maintain code quality.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[CodeAnt AI](https://codeant.ai)** | AI-enabled reviews with security scanning, inline comments, and automated fixes | Comprehensive PR automation, security |
+| **[CodeRabbit](https://coderabbit.ai)** | Fast, contextual PR review tool with AI-generated code summaries and line-by-line feedback | Rapid feedback, detailed summaries |
+| **[DeepCode (Snyk)](https://snyk.io/product/snyk-code)** | AI-powered static analysis tool combining security and bug detection in PR reviews | Security-first reviews, vulnerability detection |
+| **[GitHub Copilot Code Reviews](https://github.com/features/copilot)** | Official GitHub AI agent managing PR sessions with contextual comment and fix suggestions | GitHub ecosystem, native integration |
+| **[Greptile](https://greptile.com)** | AI bot offering full repo-aware PR analysis with fewer false positives and custom review rules | Repo-wide context, custom rules |
+| **[Korbit.ai](https://korbit.ai)** | Provides contextual review, bug detection, performance insights, and team metrics | Team analytics, performance insights |
+| **[Nova](https://nova.ai)** | Automated AI code review agent providing detailed analysis and improvement suggestions | Detailed analysis, improvement suggestions |
+| **[Pixee](https://pixee.ai)** | Security-focused AI bot scanning pull requests for vulnerabilities and compliance | Security compliance, vulnerability scanning |
+| **[PullApprove](https://pullapprove.com)** | Flexible review automation tool with branch-specific rules and approval routing integrated with GitHub | Approval workflows, custom routing |
+| **[Qodo Merge Pro](https://qodo.ai/merge)** | Context-aware PR assistant that generates summaries, links issues, and detects regressions | Issue linking, regression detection |
+| **[Qodo PR Agent](https://qodo.ai)** | Enhances PR reviews with actionable insights, test generation, and quality gates | Test generation, quality gates |
+| **[Semgrep](https://semgrep.dev)** | Static analysis with customizable rules and AI-driven findings for PR reviews | Custom rules, security scanning |
+| **[SonarQube](https://sonarqube.org)** | Enterprise-grade code and security quality analysis platform with continuous inspection | Enterprise quality control, CI/CD |
+| **[Sourcery](https://sourcery.ai)** | Python-focused AI reviewer providing inline refactoring suggestions | Python projects, refactoring |
+| **[Sweep](https://sweep.dev)** | AI-powered agent automating pull request reviews with contextual error detection and fixes | Automated fixes, error detection |
+| **[What The Diff](https://whatthediff.ai)** | Tool to summarize and analyze code diffs clearly within pull requests | Diff summaries, clarity |
+
+### Related Resources
+- **[AI Agent Platforms & Automation Tools](https://github.com/rembertdesigns/AI-Agent-Platforms-Automation-Tools)** - Comprehensive collection of AI agent platforms and automation frameworks for development workflows
