@@ -37,7 +37,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 * [🎨 UI Generation Tools](#-ui-generation-tools)
 * [🔎 Snippet & Regex Finders](#-snippet--regex-finders)
 * [📖 Docs & Knowledge Tools](#-docs--knowledge-tools)
-* [💬 ChatGPT in IDEs](#-chatgpt-in-ides)
 * [🚀 DevOps & Infrastructure](#-devops--infrastructure)
 * [🔧 AI Build & Deployment Tools](#-ai-build--deployment-tools)
 * [📊 AI Analytics & Monitoring Tools](#-ai-analytics--monitoring-tools)
@@ -448,14 +447,4 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 ---
 
-## 💬 ChatGPT in IDEs
 
-*IDE plugins and extensions that integrate ChatGPT and other conversational AI models directly into code editors for in-context assistance, code generation, and natural language interactions.*
-
-| Tool | Description | Best For |
-|------|-------------|----------|
-| **[Alexsidebar](https://alexsidebar.com)** | AI-powered development assistant with ChatGPT integration, providing in-IDE/code editor help and automation | Code editor automation, task assistance |
-| **[autocomplete.sh](https://autocomplete.sh)** | AI-powered shell autocompletion using ChatGPT for the command line | Shell productivity, command suggestions |
-| **[CodeGPT.nvim (codegpt-ng.nvim)](https://github.com/dpayne/codegpt.nvim)** | Minimalist Neovim plugin integrating ChatGPT with support for OpenAI, Ollama, Azure, and streaming responses | Neovim users, customizable workflows |
-| **[Genie AI – ChatGPT for VS Code](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)** | VS Code extension providing ChatGPT-powered coding support with latest models and features | VS Code users, ChatGPT integration |
-| **[org-ai (Emacs)](https://github.com/rksm/org-ai)** | Emacs plugin adding ChatGPT-based coding and text assistance targeted at org-mode users | Emacs/org-mode users, text assistance |
