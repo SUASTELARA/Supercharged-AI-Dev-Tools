@@ -39,11 +39,17 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 * [📖 Docs & Knowledge Tools](#-docs--knowledge-tools)
 * [💬 ChatGPT in IDEs](#-chatgpt-in-ides)
 * [🚀 DevOps & Infrastructure](#-devops--infrastructure)
+* [🔧 AI Build & Deployment Tools](#-ai-build--deployment-tools)
+* [📊 AI Analytics & Monitoring Tools](#-ai-analytics--monitoring-tools)
 * [🔒 Security & Compliance](#-security--compliance)
 * [🛡️ AI Security Utilities](#️-ai-security-utilities)
 * [📱 Mobile Dev Resources](#-mobile-dev-resources)
 * [🗄️ Database & API Helpers](#️-database--api-helpers)
+* [🧩 AI Integration & APIs](#-ai-integration--apis)
 * [🎯 MLOps & Custom AI](#-mlops--custom-ai)
+* [🤝 AI Collaboration & Code Review](#-ai-collaboration--code-review)
+* [👩‍💻 AI Developer Productivity Plugins](#-ai-developer-productivity-plugins)
+* [📝 AI Learning & Education Resources](#-ai-learning--education-resources)
 * [📚 Related Curated Lists](#-related-curated-lists)
 
 ---
