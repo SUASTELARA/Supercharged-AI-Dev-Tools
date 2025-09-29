@@ -475,3 +475,25 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Terraform Cloud](https://terraform.io)** | Infrastructure as code platform with AI-powered policy suggestions and optimization recommendations | Terraform workflows, IaC automation |
 | **[Warestack](https://warestack.com)** | AI-driven development infrastructure platform enhancing cloud resource management | Cloud resources, infrastructure management |
 
+---
+
+## 🔧 AI Build & Deployment Tools
+
+*Platforms that integrate AI into build pipelines, continuous deployment workflows, and release management with intelligent optimization, automated rollbacks, and predictive deployment strategies.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Argo CD](https://argoproj.github.io/cd)** | GitOps-focused continuous deployment for Kubernetes with AI-assisted state synchronization and anomaly detection | Kubernetes deployments, GitOps workflows |
+| **[AWS CodeWhisperer + CodePipeline](https://aws.amazon.com/codepipeline)** | AI-assisted code generation with fully automated continuous deployment service for scalable cloud delivery | AWS ecosystem, cloud-native apps |
+| **[Azure DevOps Copilot](https://azure.microsoft.com/en-us/products/devops)** | Microsoft's AI assistant for automated build-test-deploy workflows with intelligent error detection | Microsoft stack, Azure integration |
+| **[Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines)** | Git-hosted pipeline automation, enhanced with AI for workflow optimizations | Atlassian ecosystem, Git workflows |
+| **[CircleCI](https://circleci.com)** | Fast CI/CD pipelines with AI-driven job scheduling optimizations | Pipeline optimization, speed |
+| **[DeployHQ](https://deployhq.com)** | Deployment automation tool with AI helpers for troubleshooting build pipeline and SSH errors | Deployment reliability, error troubleshooting |
+| **[Flux CD](https://fluxcd.io)** | Lightweight GitOps tool with AI-powered Helm support and deployment health checks | GitOps, Kubernetes, Helm deployments |
+| **[GitLab AI](https://gitlab.com)** | Integrated AI for AI-assisted CI/CD pipelines, code suggestion, bug detection, and configuration optimization | GitLab users, integrated workflows |
+| **[Google Cloud Deploy + Vertex AI Ops](https://cloud.google.com/deploy)** | Cloud-native continuous delivery with AI Ops for predictive deployment routing and health monitoring | Google Cloud, AI Ops integration |
+| **[Harness](https://harness.io)** | AI-driven deployment verification with ML-based monitoring, auto-rollback, and canary deployments | Enterprise deployments, intelligent verification |
+| **[Jenkins](https://jenkins.io)** | Open-source automation server enhanced with AI plugins to optimize CI/CD configurations | Open-source, plugin ecosystem |
+| **[Kuberns](https://kuberns.com)** | AI-powered PaaS deployment platform with no-YAML config, AWS cost optimization, and intelligent scaling | Startups, deployment simplification |
+| **[Northflank](https://northflank.com)** | Container-based CI/CD platform with AI enhancements and bring-your-own-cloud support | Container deployments, multi-cloud |
+| **[Octopus Deploy](https://octopus.com)** | Visual release flow and rollback management for complex deployment pipelines with AI configuration recommendations | Complex deployments, multi-environment |
