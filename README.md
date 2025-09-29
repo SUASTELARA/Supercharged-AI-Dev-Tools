@@ -326,7 +326,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[ACCELQ Autopilot](https://accelq.com)** | Generative AI for full-lifecycle automation, test generation, healing, and QA acceleration | Full-lifecycle test automation, enterprise QA |
 | **[AskUI](https://askui.com)** | No-DOM, agentic AI testing platform using computer vision and natural language for UI automation | Visual testing, hybrid app automation |
 | **[Autify](https://autify.com)** | Self-healing, visual test automation with AI and codeless workflows | Visual regression, no-code testing |
-| **[AutonomIQ (Sauce Labs)](https://saucelabs.com/platform/autonomiq)** | NLP-powered, low-code platform converting requirements into automated tests | Requirements-based testing, multi-channel |
+| **[AutonomIQ (Sauce Labs)]([https://saucelabs.com/platform/autonomiq](https://saucelabs.com))** | NLP-powered, low-code platform converting requirements into automated tests | Requirements-based testing, multi-channel |
 | **[Checksum AI](https://checksum.ai)** | AI-driven tool for automated software testing, validation, and E2E coverage based on real user sessions | Real user session testing, E2E coverage |
 | **[Codeflash](https://codeflash.io)** | AI tool specializing in high-performance, bug-free Python code QA | Python testing, performance optimization |
 | **[DiffBlue Cover](https://diffblue.com)** | Specialized in AI-generated Java unit testing with broad coverage | Java unit testing, legacy code |
