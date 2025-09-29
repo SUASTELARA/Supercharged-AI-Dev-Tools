@@ -497,3 +497,25 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Kuberns](https://kuberns.com)** | AI-powered PaaS deployment platform with no-YAML config, AWS cost optimization, and intelligent scaling | Startups, deployment simplification |
 | **[Northflank](https://northflank.com)** | Container-based CI/CD platform with AI enhancements and bring-your-own-cloud support | Container deployments, multi-cloud |
 | **[Octopus Deploy](https://octopus.com)** | Visual release flow and rollback management for complex deployment pipelines with AI configuration recommendations | Complex deployments, multi-environment |
+
+---
+
+## 📊 AI Analytics & Monitoring Tools
+
+*Intelligent monitoring and analytics platforms that leverage AI for anomaly detection, predictive insights, observability, and performance tracking across applications, infrastructure, and AI/ML systems.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Coralogix AI Observability](https://coralogix.com)** | Unified logs, metrics, and traces with real-time dashboards for AI systems, anomaly detection, and security posture management | AI system monitoring, security posture |
+| **[Datadog](https://datadoghq.com)** | Cloud-native monitoring platform with machine learning (Watchdog) for proactive anomaly detection and root cause analysis | Cloud infrastructure, APM |
+| **[Domo](https://domo.com)** | Enterprise analytics platform with AI for real-time business insights, anomaly detection, and performance monitoring | Enterprise analytics, business intelligence |
+| **[Google Cloud AI Analytics Tools](https://cloud.google.com/products/ai)** | AI-powered analytics native to Google Cloud, including AI Studio for experiment tracking and anomaly detection | Google Cloud ecosystem, ML tracking |
+| **[LogAI by Salesforce](https://github.com/salesforce/logai)** | AI-driven log analysis with automated summarization, anomaly detection, clustering, and OpenTelemetry integration | Log analysis, open-source observability |
+| **[Monte Carlo](https://montecarlodata.com)** | AI data observability platform with anomaly detection, lineage tracking, and automated root cause analysis | Data reliability, ML model monitoring |
+| **[Power BI AI](https://powerbi.microsoft.com)** | Microsoft's analytics platform with AI-enhanced data prep, visual analytics, and automated predictive modeling | Microsoft ecosystem, enterprise BI |
+| **[Rankability AI Search Visibility Tools](https://rankability.com)** | AI-driven tools for SEO rank tracking, sentiment analysis, AI bot activity monitoring, and recommendations | SEO monitoring, search visibility |
+| **[ServiceNow Cloud Observability](https://servicenow.com)** | Unified telemetry with AI for dependency mapping, predictive root cause diagnosis, and collaborative troubleshooting | Enterprise observability, ITSM integration |
+| **[Splunk AI Analytics](https://splunk.com)** | Enterprise data analysis with AI-driven automation, anomaly detection, predictive analytics, and operational intelligence | Enterprise logging, security analytics |
+| **[Tableau AI](https://tableau.com)** | Business intelligence platform with AI-powered insights, automated analytics, and natural language querying | Data visualization, business analytics |
+| **[Whatagraph](https://whatagraph.com)** | AI-powered reporting with customizable visualizations and automated data cleaning from multiple sources | Marketing analytics, reporting automation |
+| **[WhyLabs](https://whylabs.ai)** | Open-source AI observability monitoring data drift, model drift, LLM security guardrails, and cohort analysis | ML model monitoring, privacy-focused |
