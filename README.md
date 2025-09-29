@@ -518,3 +518,26 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Splunk AI Analytics](https://splunk.com)** | Enterprise data analysis with AI-driven automation, anomaly detection, predictive analytics, and operational intelligence | Enterprise logging, security analytics |
 | **[Tableau AI](https://tableau.com)** | Business intelligence platform with AI-powered insights, automated analytics, and natural language querying | Data visualization, business analytics |
 | **[Whatagraph](https://whatagraph.com)** | AI-powered reporting with customizable visualizations and automated data cleaning from multiple sources | Marketing analytics, reporting automation |
+
+---
+
+## 🔒 Security & Compliance
+
+*AI-enhanced platforms for application security, vulnerability management, compliance automation, and risk assessment that protect codebases, infrastructure, and data while ensuring regulatory adherence.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Checkmarx](https://checkmarx.com)** | Industry-leading AI-enhanced Static Application Security Testing (SAST) platform with extensive vulnerability detection | Enterprise SAST, comprehensive scanning |
+| **[Codegate](https://codegate.ai)** | AI-powered tooling for security and compliance automation with continuous scanning and remediation guidance | Continuous security, compliance automation |
+| **[ComplyAI (within Secureframe)](https://secureframe.com)** | AI-assisted remediation and risk management automating cloud environment security and compliance improvements | Cloud security, risk automation |
+| **[Cyber Sierra](https://cybersierra.com)** | AI-powered GRC platform with continuous control monitoring, automated evidence collection, and vendor risk management | GRC, compliance frameworks |
+| **[Cyera](https://cyera.io)** | Intelligent data compliance platform with automated data discovery, mapping, and continuous activity monitoring | Data compliance, hybrid-cloud security |
+| **[Darktrace](https://darktrace.com)** | AI-driven cybersecurity with real-time threat detection, autonomous response, and compliance monitoring | Threat detection, autonomous response |
+| **[Gecko Security](https://gecko.security)** | AI-enabled security analysis platform delivering real-time vulnerability detection and infrastructure risk visibility | Real-time scanning, risk visibility |
+| **[JFrog Xray](https://jfrog.com/xray)** | AI-driven security and compliance scanning integrated into DevOps pipelines and artifact repositories | Artifact security, DevOps integration |
+| **[Mend (formerly WhiteSource)](https://mend.io)** | Comprehensive AI-powered solution for open source security and license compliance in software supply chains | Open source security, license compliance |
+| **[Nullify.ai](https://nullify.ai)** | AI-powered AppSec platform automating vulnerability detection, triage, prioritization, and auto-fixing | Unified AppSec, auto-remediation |
+| **[Pixee.ai](https://pixee.ai)** | AI-driven automated code security fixes focused on developer productivity and seamless PR remediation | Developer-focused security, PR integration |
+| **[Secureframe](https://secureframe.com)** | AI-powered security compliance automation with evidence validation, risk assessments, and continuous monitoring | Compliance automation, audit readiness |
+| **[Sprinto](https://sprinto.com)** | AI-powered continuous compliance platform for SOC 2, ISO 27001, GDPR with automated audit readiness | Multi-framework compliance, audit preparation |
+| **[Zeropath](https://zeropath.com)** | AI-focused security testing platform with continuous fuzz testing and vulnerability discovery | Fuzz testing, vulnerability research |
