@@ -432,13 +432,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | Tool | Description | Best For |
 |------|-------------|----------|
 | **[Cleric.io](https://cleric.io)** | AI assistant for writing and maintaining technical docs, translating complex code into easy explanations | Technical writing, code explanations |
-| **[DiagramGPT](https://diagramgpt.ai)** | Creates technical diagrams automatically from code snippets and text descriptions to enhance documentation | Technical diagrams, visual documentation |
 | **[DocuWriter.ai](https://docuwriter.ai)** | AI-driven documentation generator specifically designed for APIs and comprehensive codebases | API documentation, large codebases |
 | **[GitBook AI](https://gitbook.com)** | Enhances GitBook with AI features for intelligent content suggestions, automated document structuring | Team documentation, collaborative writing |
-| **[GPTutor](https://github.com/gpttutor/gpttutor)** | VS Code extension delivering customizable LLM-powered code explanations, tutorials, and documentation in 120+ languages | Code learning, multilingual explanations |
 | **[Mintlify](https://mintlify.com)** | Modern AI documentation platform that automatically generates, optimizes, and maintains technical docs from your codebase | Modern documentation, automated maintenance |
 | **[README-AI](https://github.com/eli64s/readme-ai)** | Automated README file generator that creates professional project documentation from source code and user prompts | README generation, project documentation |
 | **[Slab](https://slab.com)** | Knowledge management with AI-powered search, content insights, and documentation workflow automation for teams | Team knowledge base, search optimization |
-| **[Supacodes](https://supacodes.com)** | Automated code documentation platform that generates consistent and accurate developer-friendly docs | Consistent documentation, automation |
 | **[Theneo.io](https://theneo.io)** | AI-powered tool for generating interactive API documentation from OpenAPI, Postman, and other specs | API docs, interactive documentation |
 | **[Trelent](https://trelent.ai)** | AI-powered platform for generating detailed code documentation and inline comments that improve code readability | Inline comments, code readability |
