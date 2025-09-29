@@ -558,3 +558,15 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Snyk Code AI](https://snyk.io/product/snyk-code)** | Advanced SAST tool with DeepCode AI offering real-time vulnerability scanning and auto-fixes in IDEs | Developer-focused SAST, IDE integration |
 | **[Vectra AI](https://vectra.ai)** | AI-driven network detection and response focusing on identity threats and hybrid cloud attack detection | Network security, identity threats |
 | **[Wiz](https://wiz.io)** | Agentless cloud security with continuous vulnerability management and AI-driven risk prioritization across multi-cloud | Multi-cloud security, agentless scanning |
+
+---
+
+## 📱 Mobile Dev Resources
+
+*AI-enhanced platforms and tools specifically designed for mobile application development, offering visual builders, cross-platform support, and intelligent code generation for iOS and Android apps.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[AppSheet (Google)](https://appsheet.com)** | No-code platform with AI for smart data integration, workflow automation, and app logic prediction from spreadsheets | Data-driven apps, Google Workspace integration |
+| **[FlutterFlow AI](https://flutterflow.io)** | AI-powered visual development platform for Flutter with drag-and-drop interface, AI-assisted UI generation, and cross-platform deployment | Flutter development, cross-platform apps |
+| **[Thunkable](https://thunkable.com)** | AI-assisted no-code platform with drag-and-drop design, AI-generated components, and automated testing for iOS and Android | No-code mobile apps, rapid prototyping |
