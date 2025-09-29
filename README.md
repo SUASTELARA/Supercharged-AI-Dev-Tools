@@ -575,3 +575,23 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Lovable](https://lovable.dev)** | AI platform enabling rapid natural language-driven full stack app development with integrated security scans and GitHub customization | Natural language development, security-first |
 | **[Softr](https://softr.io)** | Turns Airtable/Google Sheets into web apps with AI-assistance for content generation and layout suggestions | Spreadsheet-based apps, internal tools |
 | **[Thunkable](https://thunkable.com)** | AI-assisted no-code platform with drag-and-drop design, AI-generated components, and automated testing for iOS and Android | No-code mobile apps, drag-and-drop design |
+
+---
+
+## 🗄️ Database & API Helpers
+
+*AI-enhanced database management tools and API platforms that simplify schema design, query optimization, API generation, and integration workflows with intelligent automation and natural language interfaces.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Azure API Management (AI Edition)](https://azure.microsoft.com/en-us/products/api-management)** | Enterprise API gateway with AI-powered orchestration, model deployment, security, and auto-scaling | Enterprise APIs, Azure ecosystem |
+| **[Databricks Lakehouse](https://databricks.com)** | Unified data lake and warehouse with native AI and ML integration, scalable analytics, and vector DB capabilities | Data lakehouse, ML integration |
+| **[DreamFactory](https://dreamfactory.com)** | AI-enabled rapid REST API generation platform from databases with integrated auth, RBAC, and rate limiting | Rapid API generation, database APIs |
+| **[Hasura](https://hasura.io)** | AI-enhanced GraphQL API platform providing instant APIs over Postgres with query optimization and schema generation | GraphQL APIs, Postgres integration |
+| **[MuleSoft Anypoint AI Hub](https://mulesoft.com)** | Enterprise API management platform supporting AI connectors, low-code AI integrations, and compliance | Enterprise integration, API management |
+| **[Postman AI Platform](https://postman.com)** | Popular API development platform featuring AI for auto-documentation, error detection, and auto-fix suggestions | API development, team collaboration |
+| **[RapidAPI AI Hub](https://rapidapi.com)** | AI API marketplace offering unified subscriptions, usage analytics, and SDKs for AI model prototyping | API marketplace, AI model integration |
+| **[Retool AI](https://retool.com)** | AI-powered internal tool builder with natural language interface enabling fast business app creation | Internal tools, admin panels |
+| **[Supabase AI](https://supabase.com)** | AI assistant for schema generation, query optimization, row level security, and API development with vector search | Postgres alternative, vector search |
+| **[Vector Databases](https://github.com/milvus-io/milvus)** | Specialized AI databases (Milvus, Pinecone, ChromaDB, Weaviate, FAISS, Qdrant) for embedding storage and semantic search | Vector search, RAG applications |
+| **[Zapier AI Connect](https://zapier.com)** | Workflow automation platform with AI-driven integration builder connecting 6,000+ apps and APIs | Workflow automation, no-code integration |
