@@ -570,10 +570,8 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Adalo](https://adalo.com)** | No-code platform for fast mobile MVPs with emerging AI features improving UI generation and logic suggestions | Mobile MVPs, rapid prototyping |
 | **[AppSheet (Google)](https://appsheet.com)** | No-code platform with AI for smart data integration, workflow automation, and app logic prediction from spreadsheets | Data-driven apps, Google Workspace integration |
 | **[Bolt](https://bolt.new)** | AI-powered full-stack app builder supporting popular JavaScript frameworks with visual editing and cloud deployment | JavaScript frameworks, full-stack apps |
-| **[Builder.ai](https://builder.ai)** | Guided AI platform simplifying multi-platform app creation with module selection and compilation for scalable deployment | Multi-platform consistency, guided development |
 | **[Create.xyz](https://create.xyz)** | Developer-focused AI platform to scaffold frontend/backend/database code from natural language for rapid prototyping | Developer workflows, rapid scaffolding |
 | **[FlutterFlow AI](https://flutterflow.io)** | AI-powered visual development platform for Flutter with drag-and-drop interface, AI-assisted UI generation, and cross-platform deployment | Flutter development, cross-platform apps |
 | **[Lovable](https://lovable.dev)** | AI platform enabling rapid natural language-driven full stack app development with integrated security scans and GitHub customization | Natural language development, security-first |
-| **[Quickbase AI Smart Builder](https://quickbase.com)** | AI-driven unified data workflows and collaborative app design to accelerate mobile and business app creation | Enterprise mobile apps, data workflows |
 | **[Softr](https://softr.io)** | Turns Airtable/Google Sheets into web apps with AI-assistance for content generation and layout suggestions | Spreadsheet-based apps, internal tools |
 | **[Thunkable](https://thunkable.com)** | AI-assisted no-code platform with drag-and-drop design, AI-generated components, and automated testing for iOS and Android | No-code mobile apps, drag-and-drop design |
