@@ -397,15 +397,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 
 | Tool | Description | Best For |
 |------|-------------|----------|
-| **[Banani](https://banani.ai)** | AI copilot for UI design providing free text-to-UI conversion, fast wireframing, and high-fidelity designs | Rapid wireframing, text-based design |
-| **[Deepsite](https://deepsite.ai)** | No-code AI platform for generating stunning websites from text inputs | Quick websites, no-code design |
 | **[Figma AI](https://figma.com)** | Native AI enhancements in Figma automating design tasks, content generation, and design-to-code workflows | Figma users, design automation |
 | **[Freepik](https://freepik.com)** | AI-powered design resources platform offering image generation, background removal, and mockup tools | Design assets, mockups, graphics |
-| **[Galileo AI](https://galileo.ai)** | Interface and prototyping AI platform producing multiple high-fidelity UI variations from natural language or images | High-fidelity prototypes, multiple variations |
 | **[Kombai](https://kombai.com)** | AI-assisted conversion of designs into production-ready code for various frontend frameworks | Design-to-code conversion, frontend frameworks |
 | **[Magic Patterns](https://magicpatterns.com)** | AI platform for quickly creating reusable, design-system compatible UI components with real-time collaboration | Design systems, reusable components |
-| **[Phorm.ai](https://phorm.ai)** | AI-driven platform for generating intelligent forms and interactive interfaces efficiently | Form generation, interactive interfaces |
-| **[Rendition Create](https://rendition.ai)** | AI-powered generator specialized in crafting web and mobile UI interfaces rapidly | Mobile UI, rapid interface design |
 | **[Stitch (by Google)](https://labs.google/stitch)** | Google Labs' AI UI generator leveraging Gemini models for multi-screen mobile/web UI design with Figma export | Multi-screen apps, Figma integration |
 | **[TeleportHQ](https://teleporthq.io)** | AI-enhanced front-end design tool generating production-ready, clean code from visual designs | Production code, clean exports |
 | **[Uizard](https://uizard.io)** | AI tool converting sketches, screenshots, or text into interactive, production-quality prototypes and frontend code | Sketch-to-code, interactive prototypes |
