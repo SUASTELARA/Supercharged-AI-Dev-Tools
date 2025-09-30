@@ -615,3 +615,24 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Tray.io](https://tray.io)** | Low-code iPaaS platform with data-heavy workflow automation, flexible API integrations, and AI-powered routing | Data-heavy workflows, complex automation |
 | **[Treblle](https://treblle.com)** | API observability, debugging, and real-time usage analytics with AI-driven performance insights | API monitoring, debugging |
 | **[Workato](https://workato.com)** | Enterprise integration and automation suite with strong AI connectors, pre-built integrations, and advanced orchestration | Enterprise automation, pre-built connectors |
+
+---
+
+## 🎯 MLOps & Custom AI
+
+*Comprehensive machine learning operations platforms for experiment tracking, model management, deployment automation, and production monitoring enabling teams to build, deploy, and maintain AI systems at scale.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[AWS SageMaker](https://aws.amazon.com/sagemaker)** | End-to-end cloud MLOps suite with automated experiments, distributed training, deployment, and governance | AWS ecosystem, enterprise MLOps |
+| **[ClearML](https://clear.ml)** | Open-source orchestration-first MLOps suite for experiment logging, pipeline management, and model registry | Advanced engineering teams, open-source |
+| **[Databricks Lakehouse](https://databricks.com)** | Unified AI/data stack integrating collaborative data science, ML pipelines, and production serving | Unified data platform, collaborative ML |
+| **[Domino Data Lab](https://dominodatalab.com)** | Enterprise-grade MLOps system for model lifecycle management, workflow reproducibility, and governance | Enterprise teams, governance |
+| **[Google Vertex AI](https://cloud.google.com/vertex-ai)** | Google's unified cloud MLOps platform with AutoML, LLMOps, and native Gemini/PaLM integration | Google Cloud, LLMOps |
+| **[Gradio](https://gradio.app)** | Python tool for instantly creating ML model demos, interactive UIs, and API endpoints with Hugging Face integration | Model demos, rapid prototyping |
+| **[Kubeflow](https://kubeflow.org)** | Kubernetes-centric workflow automation for ML research and production with scalable experiment workflows | Kubernetes, scalable ML pipelines |
+| **[MLflow](https://mlflow.org)** | Ubiquitous open-source experiment tracking and model management with cross-framework integration | Experiment tracking, reproducibility |
+| **[Modelbit](https://modelbit.com)** | Cloud-native model deployment with auto-scaling endpoints, CI/CD hooks, and data warehouse integrations | Model deployment, auto-scaling |
+| **[Observable](https://observablehq.com)** | Interactive data visualization and collaborative analytics notebook with AI-augmented explorations | Data visualization, live dashboards |
+| **[Streamlit](https://streamlit.io)** | Fast app-building library for data science, ML prototypes, and LLM apps with rich widgets in Python | ML prototypes, data apps |
+| **[Weights & Biases](https://wandb.ai)** | Industry-leading MLOps platform for model management, experiment tracking, hyperparameter tuning, and monitoring | Team collaboration, enterprise MLOps |
