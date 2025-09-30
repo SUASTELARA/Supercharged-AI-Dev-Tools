@@ -47,7 +47,6 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 * [🧩 AI Integration & APIs](#-ai-integration--apis)
 * [🎯 MLOps & Custom AI](#-mlops--custom-ai)
 * [🤝 AI Collaboration & Code Review](#-ai-collaboration--code-review)
-* [👩‍💻 AI Developer Productivity Plugins](#-ai-developer-productivity-plugins)
 * [📝 AI Learning & Education Resources](#-ai-learning--education-resources)
 * [📚 Related Curated Lists](#-related-curated-lists)
 
