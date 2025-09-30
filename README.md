@@ -595,3 +595,23 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Supabase AI](https://supabase.com)** | AI assistant for schema generation, query optimization, row level security, and API development with vector search | Postgres alternative, vector search |
 | **[Vector Databases](https://github.com/milvus-io/milvus)** | Specialized AI databases (Milvus, Pinecone, ChromaDB, Weaviate, FAISS, Qdrant) for embedding storage and semantic search | Vector search, RAG applications |
 | **[Zapier AI Connect](https://zapier.com)** | Workflow automation platform with AI-driven integration builder connecting 6,000+ apps and APIs | Workflow automation, no-code integration |
+
+---
+
+## 🧩 AI Integration & APIs
+
+*Platforms and APIs that enable seamless integration of AI capabilities into applications through SDKs, serverless functions, workflow automation, and API management with intelligent orchestration and monitoring.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[Activepieces](https://activepieces.com)** | Open-source visual integration and workflow platform with drag-and-drop building and custom code embedding | Open-source automation, custom workflows |
+| **[Boomi](https://boomi.com)** | iPaaS for complex SaaS and hybrid cloud environments with AI-powered data mapping and workflow automation | Hybrid cloud, complex integrations |
+| **[DreamFactory](https://dreamfactory.com)** | AI-powered API gateway for instant, secure REST API creation from databases with automated documentation | Database APIs, rapid API generation |
+| **[Google Cloud AI APIs](https://cloud.google.com/products/ai)** | Suite of scalable AI APIs for vision, text, speech, translation, and ML natively built for easy integration | Google Cloud, multi-modal AI |
+| **[Integrately](https://integrately.com)** | Simpler, budget-friendly API integration builder supporting SaaS, API and webhook automations | Small teams, budget-conscious automation |
+| **[MuleSoft Anypoint Platform](https://mulesoft.com)** | Enterprise API management with full lifecycle control, AI-driven governance and secure orchestration | Enterprise integration, API governance |
+| **[OpenAI API](https://openai.com/api)** | Access advanced foundation models (GPT-4, Codex, multimodal) for AI-driven automation and NLP | Foundation models, advanced AI features |
+| **[Pipedream](https://pipedream.com)** | Serverless, event-driven integration platform for developers emphasizing API-first custom code steps | Developer-focused, serverless automation |
+| **[Tray.io](https://tray.io)** | Low-code iPaaS platform with data-heavy workflow automation, flexible API integrations, and AI-powered routing | Data-heavy workflows, complex automation |
+| **[Treblle](https://treblle.com)** | API observability, debugging, and real-time usage analytics with AI-driven performance insights | API monitoring, debugging |
+| **[Workato](https://workato.com)** | Enterprise integration and automation suite with strong AI connectors, pre-built integrations, and advanced orchestration | Enterprise automation, pre-built connectors |
