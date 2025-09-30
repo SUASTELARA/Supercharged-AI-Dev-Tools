@@ -654,3 +654,28 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Greptile](https://greptile.com)** | Affordable option for smaller teams with practical, fast feedback and privacy-focused workflows | Small teams, budget-conscious |
 | **[Qodo](https://qodo.ai)** | AI code review platform with analysis, bug detection, test generation, and IDE/Git/CLI plugins | Multi-language support, extensible |
 | **[Sourcery.ai](https://sourcery.ai)** | High PR review accuracy with descriptive summaries and deep code quality audits | Code quality, detailed audits |
+
+---
+
+## 📝 AI Learning & Education Resources
+
+*Curated guides, tutorials, interactive platforms, and learning management systems for mastering AI-powered software development, machine learning fundamentals, and best practices with hands-on experience.*
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **[360Learning](https://360learning.com)** | Collaborative AI-powered LMS with AI-assisted content authoring, smart assistants, and personalized recommendations | Corporate upskilling, social collaboration |
+| **[Coursera](https://coursera.org)** | AI-related courses from leading universities and companies with flexible schedules and certifications | University courses, formal certifications |
+| **[Disprz](https://disprz.ai)** | AI-powered enterprise learning with speech recognition, translation, tailored content, and compliance training | Enterprise learning, compliance training |
+| **[Docebo](https://docebo.com)** | Cloud-based AI LMS with Deep Search, AI-driven Learner Coach, automated quizzes, and enterprise integration | Enterprise LMS, personalized paths |
+| **[Elements of AI](https://elementsofai.com)** | Free and accessible AI course for beginners offering foundational knowledge about AI and societal effects | Beginners, non-technical learners |
+| **[Google AI Training](https://cloud.google.com/training/machinelearning-ai)** | Free and paid courses covering machine learning, AI ethics, TensorFlow, and NLP | Google Cloud, TensorFlow learning |
+| **[iSpring Learn](https://ispringlearn.com)** | User-friendly LMS with AI content generation, personalized recommendations, and mobile learning | Small to mid-sized businesses |
+| **[LearnUpon](https://learnupon.com)** | Enterprise LMS with AI-powered assessment creation, course recommendations, and HR/business tool integration | Enterprise training, HR integration |
+| **[LearnWorlds](https://learnworlds.com)** | AI-powered course creation platform with AI content assistant, conversational AI, and marketing integrations | Course creators, online education |
+| **[Machine Learning AI Library](https://github.com/rembertdesigns/Machine-Learning-AI-Library)** | Comprehensive collection of machine learning resources, tutorials, and implementation guides | Hands-on ML learning, developer resources |
+| **[Pluralsight](https://pluralsight.com)** | Advanced AI-driven learning paths, skill assessments, and hands-on labs for tech professionals | Tech professionals, skill assessments |
+| **[SC Training (formerly EdApp)](https://edapp.com)** | Mobile-first microlearning platform with AI content creation, gamification, and multilingual support | Mobile learning, microlearning |
+| **[Thirst](https://thirstlearning.com)** | Engaging AI-driven training with gamification, AI quiz creation, and analytics | Enterprise training, engagement |
+| **[Thought Industries](https://thoughtindustries.com)** | Enterprise eLearning with AI tools for course creation, personalized paths, and Salesforce integration | Enterprise eLearning, advanced analytics |
+| **[Udemy](https://udemy.com)** | Large marketplace of AI courses from beginner to advanced levels for specific knowledge gaps | Self-paced learning, skill-specific courses |
+| **[Zavvy](https://zavvy.io)** | AI-enabled training automation with skill mapping and personalized learning journeys for HR teams | HR development, skill mapping |
