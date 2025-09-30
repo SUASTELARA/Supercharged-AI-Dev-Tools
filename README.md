@@ -646,18 +646,12 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | Tool | Description | Best For |
 |------|-------------|----------|
 | **[Aikido Security](https://aikido.dev)** | Automated code quality and review with semantic analysis, context-aware suggestions, and analytics dashboards | Security-focused reviews, rule-based analysis |
-| **[BugBot (Cursor team)](https://bugbot.io)** | AI bot surfacing configuration problems, bugs, and suggestions with quick setup for Cursor IDE users | Cursor IDE users, quick setup |
-| **[Cline + Ollama / All-hands.dev](https://github.com/all-hands-dev)** | On-premise, privacy-centric code review solutions allowing users to run their own LLMs | Privacy-first, self-hosted reviews |
 | **[CodeAnt AI](https://codeant.ai)** | One-click fixes, multi-VCS/IDE compatibility, detailed AI PR summaries, and automated security reviews | Large distributed teams, automation |
 | **[Codex (with ChatGPT)](https://openai.com/blog/openai-codex)** | Agentic code review using OpenAI's Codex with GitHub integration for smart review automation | OpenAI integration, automated reviews |
-| **[CodePeer](https://codepeer.dev)** | Smart commenting, progress tracking, context-aware feedback with free/open-source options | Open-source projects, collaborative reviews |
 | **[CodeRabbit](https://coderabbit.ai)** | Versatile customizable reviews supporting major Git platforms with configurable depth and Jira/Linear integration | Multi-platform support, customization |
-| **[Code Rabbit](https://coderabbit.ai)** | Leading AI-powered code review with high-quality PR insights, mermaid diagrams, and customizable feedback | Enterprise teams, comprehensive reviews |
 | **[CodeSherlock.ai](https://codesherlock.ai)** | PR and code editor AI analysis with comprehensive reviews and critical feedback for GitHub | GitHub workflows, accelerated reviews |
-| **[Gemini Code Assist](https://cloud.google.com/ai/gemini-code-assist)** | New AI assistant for code review, debugging, and contextual issue identification | Google ecosystem, modern workflows |
 | **[GitHub Copilot PR Agent](https://github.com/features/copilot)** | Integrates Copilot's AI for PR summaries, natural language explanations, and context-aware suggestions | GitHub users, Copilot integration |
 | **[Graphite](https://graphite.dev)** | Stacked PR workflows, side-by-side diff reviews, merge quality checks for agile teams | Stacked PRs, agile workflows |
 | **[Greptile](https://greptile.com)** | Affordable option for smaller teams with practical, fast feedback and privacy-focused workflows | Small teams, budget-conscious |
-| **[PullSense](https://pullsense.dev)** | Actionable PR feedback with customizable models and security-first design | Fast reviews, security-first |
 | **[Qodo](https://qodo.ai)** | AI code review platform with analysis, bug detection, test generation, and IDE/Git/CLI plugins | Multi-language support, extensible |
 | **[Sourcery.ai](https://sourcery.ai)** | High PR review accuracy with descriptive summaries and deep code quality audits | Code quality, detailed audits |
