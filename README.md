@@ -209,6 +209,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🔍 Review & Refactor Agents
+<img width="1584" height="396" 
+     alt="Review & Refactor Agents - AI-powered tools for automated code review, quality analysis, and intelligent refactoring" 
+     src="https://github.com/user-attachments/assets/bb083efc-a572-4443-a65c-1dacecef332d"
+     title="Improve Code Quality with AI-Powered Review and Refactoring Agents" />
 
 *Automated code review and refactoring tools that analyze your codebase for quality issues, security vulnerabilities, technical debt, and optimization opportunities while suggesting improvements and fixes.*
 
