@@ -181,6 +181,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🧠 Code Search & Navigation
+<img width="1584" height="396" 
+     alt="Code Search & Navigation - AI-powered semantic search and intelligent tools for exploring large codebases" 
+     src="https://github.com/user-attachments/assets/aa8b2781-41fe-4ed3-b5fe-a4488f7453db"
+     title="Navigate Large Codebases with AI-Powered Search and Intelligence Tools" />
 
 *Advanced search and navigation tools that help you understand, explore, and navigate large codebases using AI-powered semantic search, code understanding, and intelligent indexing.*
 
