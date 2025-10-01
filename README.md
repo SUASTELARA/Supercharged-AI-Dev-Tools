@@ -52,6 +52,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🌟 AI Code Assistants & Editors
+<img width="1584" height="396" 
+     alt="AI Code Assistants and Editors - Banner showcasing intelligent development tools with AI-powered features" 
+     src="https://github.com/user-attachments/assets/fc16b3ff-419f-4b2d-9b81-a50762b8d981"
+     title="Explore AI-Powered Code Editors and Intelligent Development Assistants" />
 
 *Intelligent code editors and development environments that enhance your coding experience with AI-powered autocompletion, real-time assistance, and smart suggestions. These tools integrate directly into your development workflow to boost productivity and code quality.*
 
