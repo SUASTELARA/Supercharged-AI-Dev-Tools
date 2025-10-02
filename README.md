@@ -473,6 +473,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🎨 UI Generation Tools
+<img width="1584" height="396" 
+     alt="UI Generation Tools - AI platforms that transform text descriptions and sketches into production-ready UI components and interfaces" 
+     src="https://github.com/user-attachments/assets/2af2754b-d5a5-47d4-b4b3-07d76f42d826"
+     title="Generate Production-Ready UI Components and Interfaces with AI Design Tools" />
 
 *AI-powered design tools that transform text descriptions, sketches, or wireframes into production-ready UI components, interfaces, and complete design systems with code export capabilities.*
 
