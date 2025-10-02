@@ -542,6 +542,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🚀 DevOps & Infrastructure
+<img width="1584" height="396" 
+     alt="DevOps & Infrastructure - AI-enhanced platforms for CI/CD, deployment automation, and intelligent infrastructure management" 
+     src="https://github.com/user-attachments/assets/66c550ca-096d-47c4-b959-359ab5fbad11"
+     title="Optimize Software Delivery with AI-Powered DevOps and Infrastructure Tools" />
 
 *AI-enhanced platforms for continuous integration, deployment, infrastructure automation, and operational workflows that optimize software delivery pipelines with intelligent monitoring and predictive insights.*
 
