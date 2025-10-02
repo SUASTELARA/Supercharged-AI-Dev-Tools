@@ -519,6 +519,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 📖 Docs & Knowledge Tools
+<img width="1584" height="396" 
+     alt="Docs & Knowledge Tools - AI platforms that automatically generate and maintain technical documentation, API references, and knowledge bases" 
+     src="https://github.com/user-attachments/assets/ecc60eef-cedb-42ac-a2fb-ae600a5bda22"
+     title="Automate Documentation with AI-Powered Knowledge Management Tools" />
 
 *AI-powered documentation platforms that automatically generate, maintain, and organize technical documentation, API references, code explanations, and knowledge bases from codebases and specifications.*
 
