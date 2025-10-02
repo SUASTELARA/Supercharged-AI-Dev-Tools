@@ -497,6 +497,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🔎 Snippet & Regex Finders
+<img width="1584" height="396" 
+     alt="Snippet & Regex Finders - AI tools for discovering, generating, and managing code snippets and regular expressions" 
+     src="https://github.com/user-attachments/assets/05b9322e-be59-442f-bf65-30168ca09dab"
+     title="Find and Generate Code Snippets and Regex Patterns with AI-Powered Tools" />
 
 *Specialized tools for discovering, generating, and managing code snippets and regular expressions using AI to simplify pattern matching, code reuse, and cross-language conversion.*
 
