@@ -735,6 +735,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🧩 AI Integration & APIs
+<img width="1584" height="396" 
+     alt="AI Integration & APIs - Platforms enabling seamless AI integration through SDKs, APIs, and workflow automation" 
+     src="https://github.com/user-attachments/assets/977576d6-0c36-4718-90da-8528133c2da9"
+     title="Integrate AI Capabilities into Applications with APIs, SDKs, and Orchestration Platforms" />
 
 *Platforms and APIs that enable seamless integration of AI capabilities into applications through SDKs, serverless functions, workflow automation, and API management with intelligent orchestration and monitoring.*
 
