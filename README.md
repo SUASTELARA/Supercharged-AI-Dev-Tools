@@ -16,6 +16,10 @@ Ready to revolutionize your workflow? Dive in to explore, learn, and build smart
 ---
 
 ## 📚 Explore the AI Dev Toolbox
+<img width="1584" height="396" 
+     alt="Explore the AI Dev Toolbox - Comprehensive directory of 27+ AI-powered development tool categories" 
+     src="https://github.com/user-attachments/assets/0c21ee7f-d3ea-472f-98cf-56954ae48407"
+     title="Navigate the Complete AI Developer Toolbox - From Code Editors to MLOps" />
 
 Quickly navigate through categories and uncover the most innovative AI-powered coding resources—from editors and completion engines to DevOps and security. Each section surfaces unique tools to help automate your workflow, supercharge productivity, and inspire your next project.
 
