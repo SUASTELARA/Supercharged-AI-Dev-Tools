@@ -324,6 +324,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🤖 Autonomous Coding Agents
+<img width="1584" height="396" 
+     alt="Autonomous Coding Agents - Self-directed AI agents that independently plan, code, test, and deploy software projects" 
+     src="https://github.com/user-attachments/assets/4a1bdb33-36a0-40f5-b74a-cdf72eddc975"
+     title="Autonomous AI Agents That Handle Complete Development Workflows Independently" />
 
 *Self-directed AI agents that can independently plan, code, test, and deploy software projects with minimal human intervention, handling complex multi-step development workflows autonomously.*
 
