@@ -246,6 +246,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 📦 LLM Models for Code
+<img width="1584" height="396" 
+     alt="LLM Models for Code - Foundational large language models trained for code generation, completion, and understanding" 
+     src="https://github.com/user-attachments/assets/bc50a1c6-64a8-49cf-9ea3-2fd4d175b610"
+     title="Explore Large Language Models Specifically Trained for Code Generation and Understanding" />
 
 *Large language models specifically trained or fine-tuned for code generation, completion, and understanding tasks. These foundational models power many of the coding assistants and can be used directly via APIs or self-hosted deployments.*
 
