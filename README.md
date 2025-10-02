@@ -634,6 +634,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🔒 Security & Compliance
+<img width="1584" height="396" 
+     alt="Security & Compliance - AI platforms for vulnerability management, compliance automation, and application security" 
+     src="https://github.com/user-attachments/assets/e19c7b75-d6d7-4f54-a586-1ac64a7ff52b"
+     title="Protect Code and Infrastructure with AI-Powered Security and Compliance Tools" />
 
 *AI-enhanced platforms for application security, vulnerability management, compliance automation, and risk assessment that protect codebases, infrastructure, and data while ensuring regulatory adherence.*
 
