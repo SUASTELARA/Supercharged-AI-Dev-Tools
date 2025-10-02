@@ -761,6 +761,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🎯 MLOps & Custom AI
+<img width="1584" height="396" 
+     alt="MLOps & Custom AI - Machine learning operations platforms for experiment tracking, model management, and deployment automation" 
+     src="https://github.com/user-attachments/assets/750804e1-564c-47f3-a755-e7e12e414b7d"
+     title="Build and Deploy AI Systems at Scale with MLOps and Custom Model Platforms" />
 
 *Comprehensive machine learning operations platforms for experiment tracking, model management, deployment automation, and production monitoring enabling teams to build, deploy, and maintain AI systems at scale.*
 
