@@ -839,6 +839,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 🎓 Contributing & Community
+<img width="1584" height="396" 
+     alt="Contributing & Community - Open source collaboration welcome for AI development tools repository" 
+     src="https://github.com/user-attachments/assets/56eef782-8500-4197-9c6e-5789477f855b"
+     title="Join the Community - Contribute to the AI Dev Tools Repository" />
 
 This repository thrives on community collaboration. Whether you've discovered a new AI coding tool, want to update descriptions, or have suggestions for new categories, your contributions are welcome!
 
