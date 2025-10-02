@@ -298,6 +298,10 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 ---
 
 ## 💻 Shell & CLI Assistants
+<img width="1584" height="396" 
+     alt="Shell & CLI Assistants - AI-powered terminal tools with intelligent command suggestions and natural language processing" 
+     src="https://github.com/user-attachments/assets/870a111a-99b4-4ca9-8ef9-37b3895f844a"
+     title="Supercharge Your Terminal with AI-Powered Shell and CLI Assistants" />
 
 *AI-powered terminal and command-line tools that enhance shell productivity with intelligent command suggestions, natural language processing, and automated workflow optimization.*
 
