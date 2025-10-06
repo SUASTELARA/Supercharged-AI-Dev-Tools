@@ -1,4 +1,8 @@
 # Supercharged AI Dev Tools
+<img width="1600" height="900" 
+     alt="Supercharged AI Dev Tools - Open-source directory of AI-powered coding solutions for developers" 
+     src="https://github.com/user-attachments/assets/c1a322c8-2773-48e6-be9c-f8a36d6aad27"
+     title="Unlock the Future of Programming with AI-Powered Development Tools" />
 
 Unlock the future of programming with **Supercharged AI Dev Tools**—your go-to, open-source directory for the smartest, most versatile AI-powered coding solutions. This collection spotlights tools that elevate every phase of development: intelligent code editors, auto-completion engines, code review bots, refactoring agents, and LLM-based assistants.
 
